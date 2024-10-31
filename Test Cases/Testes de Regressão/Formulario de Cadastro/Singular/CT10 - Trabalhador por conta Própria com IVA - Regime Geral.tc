@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT10 - Trabalhador por conta Própria com IVA - Regime Geral</name>
+   <tag>CT10</tag>
+   <comment></comment>
+   <testCaseGuid>22bac760-a600-411d-b199-1a01169fda2b</testCaseGuid>
+</TestCaseEntity>

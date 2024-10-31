@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>navFormAlterar</name>
+   <tag></tag>
+   <elementGuidId>e6c218a1-7531-45cf-b3a6-5f3b15f32deb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='mainNavRow']/td/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.pseudoLink.oraNormal > span.clickable</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@oramdlabel = 'C1_TAXFORM_MAIN_LBL' and @class = 'clickable' and (text() = 'Principal' or . = 'Principal') and @ref_element = 'Object Repository/Page/Principal/frame_uiMap']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04e47c57-8b4c-4044-a16b-382f4324b728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>C1_TAXFORM_MAIN_LBL</value>
+      <webElementGuid>3210dfcb-226b-4211-962d-7fe811a0a31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickable</value>
+      <webElementGuid>0be711d5-a6bc-44bf-b785-b539dd9f248b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Principal</value>
+      <webElementGuid>fac3ea65-197e-4001-9b3d-fa8b8afcacc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainNavRow&quot;)/td[@class=&quot;cmFormNavigationCell&quot;]/a[@class=&quot;pseudoLink oraNormal&quot;]/span[@class=&quot;clickable&quot;]</value>
+      <webElementGuid>2c979cf7-60de-4fba-bbeb-b8bbc59ef5a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/zoneMapFrame_2</value>
+      <webElementGuid>f7c3c05b-fd41-4bf6-a897-cb0102a52b3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='mainNavRow']/td/a/span</value>
+      <webElementGuid>9e850ac2-c1f2-4192-a496-0cb0dc64e9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navegação do Formulário'])[1]/following::span[1]</value>
+      <webElementGuid>fd16a11b-c786-4d2b-810c-35cf01dbb7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista de Exceções'])[1]/following::span[2]</value>
+      <webElementGuid>b9545f20-cc21-4015-8491-b529c27bfc54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalhes de Registo'])[1]/preceding::span[1]</value>
+      <webElementGuid>137255f9-bee1-4e2b-afc2-cda5527699aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enquadramento em Impostos'])[1]/preceding::span[2]</value>
+      <webElementGuid>c8b5e474-8ef5-492c-934b-7a6ca8e2c221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Principal']/parent::*</value>
+      <webElementGuid>e055c2f7-fbb5-4e55-af0e-9ef42ae72498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/table/tbody/tr[2]/td/a/span</value>
+      <webElementGuid>bff65105-57e7-4678-9174-208c8a3a97e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Principal' or . = 'Principal')]</value>
+      <webElementGuid>51fa6c25-8c15-43a4-beee-a94d46284f2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

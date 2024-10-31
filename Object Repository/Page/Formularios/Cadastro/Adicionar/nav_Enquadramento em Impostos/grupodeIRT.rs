@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>grupodeIRT</name>
+   <tag></tag>
+   <elementGuidId>bcd8d577-579f-49ec-85d2-12ee22c92f5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_registrationDetails_irtGroup_asCurrent' and @name = 'asCurrent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_registrationDetails_irtGroup_asCurrent</value>
+      <webElementGuid>e4279b56-2501-4bc6-8ab7-4aa121c2dc3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>a01abefd-e2b2-484e-bb46-a2016bc4e884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>1eed8a64-0f93-4857-88b7-6c28609afe6f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

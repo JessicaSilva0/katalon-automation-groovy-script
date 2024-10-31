@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT30 - Alterar - Empresa Sem IVA - Adicionando IVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>113313c8-d897-400e-8832-6bbd7438834c</testCaseGuid>
+</TestCaseEntity>

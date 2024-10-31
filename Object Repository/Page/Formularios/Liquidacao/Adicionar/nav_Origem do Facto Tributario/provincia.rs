@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>provincia</name>
+   <tag></tag>
+   <elementGuidId>8859168f-bdc5-4adc-8564-cdf4d682f440</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;boGroup_select_originOfTaxes_municipality_asCurrent&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_select_originOfTaxes_province_asCurrent' and @ref_element = 'Object Repository/Page_Principal/frame_uiMap']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_select_originOfTaxes_province_asCurrent</value>
+      <webElementGuid>5511dbc7-65d8-4712-a3c7-456d6d5bab38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>provinceSelector</value>
+      <webElementGuid>2bc6f2c6-869f-4212-ae89-ca5a0a9f1469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>f76e9134-fcfc-43f2-a5fb-6ea1aed582c6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Apagar</name>
+   <tag></tag>
+   <elementGuidId>01df6f84-870f-4202-909c-2319def2ac4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'imgRemove' and @src = 'images/alta/remove.png' and @title = 'Apagar']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>imgRemove</value>
+      <webElementGuid>e558eb1f-77dd-4f00-b77e-ec87d19d0274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/alta/remove.png</value>
+      <webElementGuid>7bb4b8ca-893b-48ff-965c-7b6882be8a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Apagar</value>
+      <webElementGuid>55b435f5-505d-43f1-95ba-ffd514168b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>f82fb14a-4e04-46f4-86e3-a49469b5548d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

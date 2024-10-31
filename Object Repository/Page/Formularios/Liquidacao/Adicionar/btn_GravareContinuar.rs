@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_GravareContinuar</name>
+   <tag></tag>
+   <elementGuidId>53369d0f-04d4-4340-bf24-7b078766b130</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input.oraButton:nth-child(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>SAVE_AND_CONTINUE_BTN_LBL</value>
+      <webElementGuid>48f2ab06-b4a1-47fa-9932-00862f48e80b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Gravar e Continuar</value>
+      <webElementGuid>7882893c-c87b-469f-a1e7-4ba0abf70fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input.oraButton:nth-child(3)</value>
+      <webElementGuid>da349eb6-534b-4d6b-be75-5c4370200382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>2333fb73-5e9b-4227-ae3a-39c913b3cca4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

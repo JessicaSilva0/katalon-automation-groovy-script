@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>regimeDeII</name>
+   <tag></tag>
+   <elementGuidId>681f2302-88e6-4986-8617-5a3be6a72fff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_registrationDetails_regimeII_asCurrent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_registrationDetails_regimeII_asCurrent']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;boGroup_registrationDetails_regimeII_asCurrent&quot;)[count(. | //*[@id = 'boGroup_registrationDetails_regimeII_asCurrent' and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Enquadramento em Impostos/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']) = count(//*[@id = 'boGroup_registrationDetails_regimeII_asCurrent' and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Enquadramento em Impostos/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e2d49b63-cbed-42f4-b3e4-8098c9eef956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>ee3b1866-6444-42d0-84cb-28ba7802a153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>lookup:CM_REGIME_II_FLG;</value>
+      <webElementGuid>69ad85d2-ec51-4a8c-b284-4ed3c1d2f858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/taxFramingSection/regimeII/asCurrent</value>
+      <webElementGuid>c67bf04f-18f0-43e4-b550-345708a1917e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>d21397eb-13d9-450d-a06c-54aee944ef6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_registrationDetails_regimeII_asCurrent</value>
+      <webElementGuid>85d4c62f-6f2a-446e-8d22-dc9351df1667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_REGIME_II</value>
+      <webElementGuid>99a288ac-8d8e-49bc-986b-08ee96e22a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>lookup:CM_REGIME_II_FLG</value>
+      <webElementGuid>ca689f75-ad10-4f68-9fee-2d57b619f3dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>c2cc23ee-d484-45dd-b9b3-ffce57829359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/taxFramingSection/regimeII/asCurrent</value>
+      <webElementGuid>b2b0900d-f392-494b-9bfa-15c5e5186877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+Regime GeralRegime Geral (Sector Financeiro)Regime Simplificado</value>
+      <webElementGuid>43130d8d-9e87-4b2d-895b-ef1b20808f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_registrationDetails_regimeII_asCurrent&quot;)</value>
+      <webElementGuid>1da972e6-2bcd-40ff-938b-7e1541ca801d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>2c571700-0fcd-4c08-a3dc-66681846b499</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_registrationDetails_regimeII_asCurrent']</value>
+      <webElementGuid>79d03f43-f215-4708-b87f-482a176b1c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='taxFramingSectionHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>3f42be86-1d4f-463d-a938-a021615d79c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regime de II'])[1]/following::select[1]</value>
+      <webElementGuid>81953b59-9462-4f85-9a76-befe3460b6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enquadramento em Impostos'])[2]/following::select[1]</value>
+      <webElementGuid>03d8b133-230d-4506-9c2f-aff6071d61ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo de IRT'])[1]/preceding::select[1]</value>
+      <webElementGuid>2f0301a7-357b-4531-a9cb-665bb53a04ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sujeito a Tributação em IAC'])[1]/preceding::select[2]</value>
+      <webElementGuid>52bf191b-ba89-4fb5-81ba-1a08de56908c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>c158c880-4fa2-469a-8326-1df25f906c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_registrationDetails_regimeII_asCurrent' and (text() = '
+
+
+Regime GeralRegime Geral (Sector Financeiro)Regime Simplificado' or . = '
+
+
+Regime GeralRegime Geral (Sector Financeiro)Regime Simplificado')]</value>
+      <webElementGuid>0b9129f1-4def-41f8-8a8c-3132e00a8b2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

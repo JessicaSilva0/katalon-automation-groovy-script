@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>indicadorDeRepresentacaoFiscal</name>
+   <tag></tag>
+   <elementGuidId>47711a85-82ae-4288-8b3b-d69e14a07756</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_nonResidentDetails_establishment_asCurrent']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'asCurrent' and @id = 'boGroup_nonResidentDetails_establishment_asCurrent' and (text() = '
+
+Com Estabelecimento EstávelSem Estabelecimento Estável' or . = '
+
+Com Estabelecimento EstávelSem Estabelecimento Estável') and @ref_element = 'Object Repository/detalhes para nao residente/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_nonResidentDetails_establishment_asCurrent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0a26a71a-d063-4e21-a5d5-60c4395dbf3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>aa54bb1c-5922-45a9-bb13-cd2c9f48f8c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>lookup:CM_STDRE_DTLNAO_ESTABT_0_FLG;</value>
+      <webElementGuid>233f48d0-b202-4e93-8ea6-e4c67d3aaf7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/nonResidentDetails/establishment/asCurrent</value>
+      <webElementGuid>0134b8de-e6d7-409a-9c98-6e73edeef55d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>2e9ddbbb-e737-4fb0-9928-7e0c33423f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_nonResidentDetails_establishment_asCurrent</value>
+      <webElementGuid>75fa27aa-808b-4567-83de-e32cc47a25fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_STDRE_DTLNAO_ESTABT_0_FLG</value>
+      <webElementGuid>3dce48a8-b07e-4fc2-a247-91802836c312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>lookup:CM_STDRE_DTLNAO_ESTABT_0_FLG</value>
+      <webElementGuid>57646e1d-2c44-48fc-900b-63d0e19ecb29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>248b460c-a98a-41cf-ba74-9da4bf20c629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/nonResidentDetails/establishment/asCurrent</value>
+      <webElementGuid>33458909-4567-4abe-a3e7-ac5dac7c12bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Com Estabelecimento EstávelSem Estabelecimento Estável</value>
+      <webElementGuid>5e22581e-9350-46da-8a85-ed7934ce7bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_nonResidentDetails_establishment_asCurrent&quot;)</value>
+      <webElementGuid>fbda5539-07a6-4890-a18a-136d28fba776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>2aa1f73a-ef17-48fa-afa3-98f003227212</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_nonResidentDetails_establishment_asCurrent']</value>
+      <webElementGuid>ec548591-06a0-45c9-b36d-c70639fa79b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nonResidentDetailsHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>c3647bf4-ef3b-426e-8fbc-a9a25e3af58e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de estabelecimento'])[1]/following::select[1]</value>
+      <webElementGuid>8812964a-6c54-4a18-8a93-54b046a712aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalhes para Não Residentes'])[2]/following::select[1]</value>
+      <webElementGuid>d60cca31-8023-4f3e-b5bd-60fcfd67e781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Representantes de Entidade Não Residente'])[1]/preceding::select[1]</value>
+      <webElementGuid>c85cdde2-4871-4840-bb18-1c8e010e508d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>c054885b-94ef-4ac1-8731-abd5a850c450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_nonResidentDetails_establishment_asCurrent' and (text() = '
+
+Com Estabelecimento EstávelSem Estabelecimento Estável' or . = '
+
+Com Estabelecimento EstávelSem Estabelecimento Estável')]</value>
+      <webElementGuid>f2a94725-06e3-45f0-ae52-31180ba139a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

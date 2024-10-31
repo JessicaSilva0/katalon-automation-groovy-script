@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Acessar o Sistema com sucesso</description>
+   <name>CT01 - Login Com sucesso</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>d849d54a-1241-4562-b0ce-f76719c224fa</testCaseGuid>
+</TestCaseEntity>

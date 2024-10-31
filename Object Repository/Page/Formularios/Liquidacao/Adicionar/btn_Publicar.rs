@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Botão Publicar</description>
+   <name>btn_Publicar</name>
+   <tag></tag>
+   <elementGuidId>f284c400-ae1f-48bb-a08a-d758d34f77f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'button' and @value = 'Publicar']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ca33599c-9d6d-4e90-8367-04194c5d3e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oraButton.oraDefault</value>
+      <webElementGuid>054e24ae-f63f-44cd-a0fc-54f7241d8106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>state1</value>
+      <webElementGuid>311ae2e7-c416-4220-bf94-eaff6a5a02a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Publicar</value>
+      <webElementGuid>9ca4b84b-bfef-476c-9997-497dd35be895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7e5ef23c-d4de-4a5a-bbb8-979ea9c49cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Formularios/Liquidacao/zoneMapFrame1</value>
+      <webElementGuid>f6b899c5-3391-4e0b-80ef-daf97fd89597</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

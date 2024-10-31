@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menuContextoDePessoa</name>
+   <tag></tag>
+   <elementGuidId>77f05539-4507-4d58-81b0-82c2a4ef5468</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Mostrar Menu de Contexto da Pessoa&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;data_201&quot;]/table/tbody/tr[1]/td[1]/img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@onclick=&quot;handleContextMenu('contextPerson', 'PER_ID', '2033676174')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;data_201&quot;]/table/tbody/tr[1]/td[1]/img</value>
+      <webElementGuid>b2ead8e9-820c-4145-a0ca-b04804d0ee90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/dashboard</value>
+      <webElementGuid>c4f41539-1132-4764-a06c-a210b25584fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//img[@onclick=&quot;handleContextMenu('contextPerson', 'PER_ID', '2033676174')&quot;]</value>
+      <webElementGuid>9146371d-9bab-45d7-9dac-75f4b5f20070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='data_201']/table/tbody/tr/td/img</value>
+      <webElementGuid>cbe17112-cafe-4933-9686-54e4c4f27815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Mostrar Menu de Contexto da Pessoa']</value>
+      <webElementGuid>6e15b7b2-23b3-4de0-a3d9-0d141c14a90e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr/td/img</value>
+      <webElementGuid>ae672b6d-713f-4280-8387-251544540b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/popMenuButton2.gif?ltr' and @alt = 'Mostrar Menu de Contexto da Pessoa' and @title = 'Mostrar Menu de Contexto da Pessoa']</value>
+      <webElementGuid>ecc6d517-e4d1-4e97-9efb-9331c8edb8f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

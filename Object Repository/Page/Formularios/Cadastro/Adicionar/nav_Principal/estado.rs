@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>estado</name>
+   <tag></tag>
+   <elementGuidId>3a61f541-9f5b-415d-ac9b-982fb6e8f107</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;statusDescription&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;statusDescription&quot;]</value>
+      <webElementGuid>d9daf284-4900-45bb-81d2-066a7ba9c45a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/zoneMapFrame_2</value>
+      <webElementGuid>ec77ae94-8314-4af1-a2f2-3d61a86e0962</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

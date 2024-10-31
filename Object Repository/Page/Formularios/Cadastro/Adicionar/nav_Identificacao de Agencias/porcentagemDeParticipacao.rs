@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>porcentagemDeParticipacao</name>
+   <tag></tag>
+   <elementGuidId>f4253582-1f60-401b-a23d-eeb323752cf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'otherCollPercentParticipation_asCurrent_0' and @aria-labelledby = 'C1_AS_CURRENT CM_PERC_PART' and @ref_element = 'Object Repository/Page/Principal/frame_uiMap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#otherCollPhoneNumber_asCurrent_0_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='otherCollPhoneNumber_asCurrent_0_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>otherCollPercentParticipation_asCurrent_0</value>
+      <webElementGuid>d0bb2c78-ff0c-4b43-8bdd-d2b5330b684d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_PERC_PART</value>
+      <webElementGuid>a4972101-5b39-441d-afba-8d0f70d575d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>f7c08df4-ad27-4687-b361-4eee94116a3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='otherCollPhoneNumber_asCurrent_0_0']</value>
+      <webElementGuid>e6186eb3-fda1-4f32-a6be-96e42c3d0ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subsidiariesHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr[26]/td/table/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr[5]/td[2]/input</value>
+      <webElementGuid>18672155-f52f-41a8-8eb5-ce8fa1e74033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[26]/td/table/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr[5]/td[2]/input</value>
+      <webElementGuid>a7fb3489-1983-459f-8fa3-a0c3930a7340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'asCurrent' and @type = 'text' and @id = 'otherCollPhoneNumber_asCurrent_0_0']</value>
+      <webElementGuid>32065bd9-0f9f-421d-a310-121c28967642</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tipoContribuinte</name>
+   <tag></tag>
+   <elementGuidId>8767617c-d3c8-40d8-b747-09997758a677</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_registrationDetails_taxpayerType_asCurrent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_registrationDetails_taxpayerType_asCurrent']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'asCurrent' and @id = 'boGroup_registrationDetails_taxpayerType_asCurrent' and (text() = '
+
+COLECTIVOSINGULAR' or . = '
+
+COLECTIVOSINGULAR') and @ref_element = 'Object Repository/teste/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bd3b9b88-fecf-4bb6-b54f-410fb56c5146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>93402894-c907-4c31-af87-1a154ae786f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>collectiveRequiredFields(this);clearProvince(this);</value>
+      <webElementGuid>eb86ec7a-3a88-41d2-b596-3defd147c787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>table:CI_PER_TYPE</value>
+      <webElementGuid>fdb4ee93-720f-4175-aec9-baa36264632b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/registrationDetails/taxpayerType/asCurrent</value>
+      <webElementGuid>57ec3af1-9cb8-46bc-aa70-6e653fcde807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>7bb4a5b3-bcae-4fac-b1fd-ba92d137684d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_registrationDetails_taxpayerType_asCurrent</value>
+      <webElementGuid>aef27235-4b13-48ad-aaed-ece0fa5a5b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_TAXP_TYPE</value>
+      <webElementGuid>4f5b2e31-3590-4704-899b-07414816ebb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>string;precision:12</value>
+      <webElementGuid>118b82f8-8579-4f7f-a908-3962bf04a483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>9c49cac7-90d2-4f46-93f5-1f801c457d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/registrationDetails/taxpayerType/asCurrent</value>
+      <webElementGuid>f0efa469-36bc-495a-aaf7-60d527d9c324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oraDefault</value>
+      <webElementGuid>903219a5-e7b1-4d87-a036-dcc7d5d974be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+COLECTIVOSINGULAR</value>
+      <webElementGuid>af22775c-01b7-49c3-99e4-6ab3174d6e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_registrationDetails_taxpayerType_asCurrent&quot;)</value>
+      <webElementGuid>88a32a23-ddbe-4e71-b1cf-54a100d35036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>edd37263-0f02-4ac7-b383-0ad7119d27bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_registrationDetails_taxpayerType_asCurrent']</value>
+      <webElementGuid>17397e3f-66a5-4e3e-b09e-48f059729ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='registrationDetailsHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[8]/td[2]/select</value>
+      <webElementGuid>b83ba250-520b-49ce-9fe2-cd2cf7eb487b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Contribuinte'])[1]/following::select[1]</value>
+      <webElementGuid>61c341d8-8a40-4b29-86d3-7b53261f8b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIF'])[1]/following::select[1]</value>
+      <webElementGuid>aeb8ad01-564c-490f-a02c-09f18c86b5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Contribuinte Colectivo'])[1]/preceding::select[1]</value>
+      <webElementGuid>5c0aa921-4b78-4c55-820b-cedbe996fa02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo de Imposto Industrial'])[1]/preceding::select[2]</value>
+      <webElementGuid>8e8d3b49-efd4-42f6-8e5c-f24ac8626495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/select</value>
+      <webElementGuid>09eda169-aadc-4fde-8be8-8bd44f27f7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_registrationDetails_taxpayerType_asCurrent' and (text() = '
+
+COLECTIVOSINGULAR' or . = '
+
+COLECTIVOSINGULAR')]</value>
+      <webElementGuid>4550f3d2-d482-4504-a0fa-83be13f7a52e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

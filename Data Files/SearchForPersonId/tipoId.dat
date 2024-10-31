@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Tipos de Id</description>
+   <name>tipoId</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>52e9b8bf-49fb-436b-b61b-33cb4f3220ec</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>AID</data>
+   <data>BCER</data>
+   <data>COM</data>
+   <data>FID</data>
+   <data>LAID</data>
+   <data>LNIF</data>
+   <data>OTHR</data>
+   <data>PASS</data>
+   <data>REF</data>
+   <data>RES</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>TipoId</name>
+      <size>10</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

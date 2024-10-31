@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validação do IBAN, campo</description>
+   <name>CT03 - Outras Informações</name>
+   <tag>CAD03</tag>
+   <comment></comment>
+   <testCaseGuid>3a4413bc-7c50-4067-8116-70209bec197b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Este caso de teste cria uma liquidação genérica e realiza seu pagamento.
+
+Funcionalidades relacionadas
+Login, Liquidação e Pagamento</description>
+   <name>CT01- Liquidação e Pagamento de imposto</name>
+   <tag>regressao</tag>
+   <comment></comment>
+   <testCaseGuid>68fbc13c-3014-4d2e-b7c6-343f7bce3c46</testCaseGuid>
+</TestCaseEntity>

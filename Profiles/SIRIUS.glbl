@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>SIRIUS</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>PSRM-SIRIUS</description>
+      <initValue>'http://10.129.105.238:8500/ouaf/loginPage.jsp'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

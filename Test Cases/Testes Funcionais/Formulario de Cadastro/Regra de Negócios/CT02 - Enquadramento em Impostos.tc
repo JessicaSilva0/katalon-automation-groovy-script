@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validação do campo &quot;Grupo de IRT&quot; onde o mesmo é condicional dependendo do tipo de contribuinte singular. Somente é obrigatório caso selecionado &quot;Própria&quot; ou &quot;Outrém&quot;.</description>
+   <name>CT02 - Enquadramento em Impostos</name>
+   <tag>CAD02</tag>
+   <comment></comment>
+   <testCaseGuid>b49c3fd8-8fe9-4a31-b2bf-c195e4343972</testCaseGuid>
+</TestCaseEntity>

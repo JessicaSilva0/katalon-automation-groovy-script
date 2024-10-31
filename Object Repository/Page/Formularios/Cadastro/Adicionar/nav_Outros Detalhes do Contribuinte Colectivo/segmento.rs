@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>segmento</name>
+   <tag></tag>
+   <elementGuidId>e5ff4267-5dfa-4063-b35b-92c29f085b9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_otherCollectiveDetails_segmentType_asCurrent']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_otherCollectiveDetails_segmentType_asCurrent' and @ref_element = 'Object Repository/Page/Principal/frame_uiMap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_otherCollectiveDetails_segmentType_asCurrent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1357e20e-7b06-4d10-9c31-3900286e8de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>83e801a0-c159-4be5-9bd8-a1d7bae291b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cmAutonomyType</value>
+      <webElementGuid>d15e8c80-35f9-40e3-abac-a8b61fb5fee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>hideDropdownItem(this, 'cmAutonomyType', 'NA');</value>
+      <webElementGuid>2aba5f15-bcd1-47a3-a4da-31302fc766a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>lookup:CM_SEGMENT_TYPE_FLG;</value>
+      <webElementGuid>719c8152-3620-4e29-8536-b5fef2cbe9bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/otherCollectiveDetails/segmentTypeFlg/asCurrent</value>
+      <webElementGuid>d8665ad3-a1ff-4b57-a796-6b5a385f9576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>5ed454d0-f464-4b11-8e1c-bd925fa26eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_otherCollectiveDetails_segmentType_asCurrent</value>
+      <webElementGuid>967be2ed-03c3-4188-9525-c80292a383f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_SEGMENT_TYPE_FLG</value>
+      <webElementGuid>2cce2c02-1918-4b73-a212-3fc18d553214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>lookup:CM_SEGMENT_TYPE_FLG</value>
+      <webElementGuid>6018fd27-32f4-4272-b899-4eab1016e2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>d40b02b1-46f0-4ff3-ab57-ebdb775b336b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/otherCollectiveDetails/segmentTypeFlg/asCurrent</value>
+      <webElementGuid>5bc1f748-4459-4d2f-bb40-2cb012843c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+Mecenato (beneficiário)Utilidade Pública</value>
+      <webElementGuid>d8e423d4-e337-4c6b-af1e-445ccc300867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_otherCollectiveDetails_segmentType_asCurrent&quot;)</value>
+      <webElementGuid>84a90e79-b08e-4efe-bbb4-d408079f72de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>41b7473c-bbd7-46bf-9355-a305303bf3a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_otherCollectiveDetails_segmentType_asCurrent']</value>
+      <webElementGuid>98d4e15c-ccc3-4846-a7e3-8ac5ea62c8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='segmentIdentificationVal']/td[2]/select</value>
+      <webElementGuid>745ade58-31ae-4621-b399-4b70879f2572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Segmento'])[1]/following::select[1]</value>
+      <webElementGuid>dd222f21-6307-4a39-b91a-085801060536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secção de Detalhes da Associação'])[1]/following::select[1]</value>
+      <webElementGuid>1afdabb4-0f5d-4c97-93c9-3c0123de551f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalhes de Organização Internacional'])[1]/preceding::select[1]</value>
+      <webElementGuid>206b8a5c-8f14-43a3-b9e8-8c6e0955e7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Tributação'])[1]/preceding::select[1]</value>
+      <webElementGuid>e486a0ae-4c62-4085-932c-06b2018de6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[30]/td[2]/select</value>
+      <webElementGuid>def1c5ec-5f33-4eab-ba60-3821f95deb8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_otherCollectiveDetails_segmentType_asCurrent' and (text() = '
+
+
+Mecenato (beneficiário)Utilidade Pública' or . = '
+
+
+Mecenato (beneficiário)Utilidade Pública')]</value>
+      <webElementGuid>a8f04d3a-8307-4f9e-9894-a091a5e971f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

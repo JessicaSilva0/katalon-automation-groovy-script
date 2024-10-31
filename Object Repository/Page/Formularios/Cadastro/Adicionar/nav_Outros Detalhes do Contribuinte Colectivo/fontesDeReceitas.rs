@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fontesDeReceitas</name>
+   <tag></tag>
+   <elementGuidId>cfd5da7d-fc0e-4578-9a4f-a771b8134aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_otherCollectiveDetails_revenueSourceType_asCurrent' and @aria-labelledby = 'C1_AS_CURRENT CM_REV_SRC_TYPE_FLG' and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Outros Detalhes do Contribuinte Colectivo/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_otherCollectiveDetails_revenueSourceType_asCurrent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_otherCollectiveDetails_revenueSourceType_asCurrent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>77246e60-ff4c-49f6-ae45-4b6acbe54f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>1a810cf4-fc82-48bb-a1da-3135f422fa94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>revenueSourceType</value>
+      <webElementGuid>604f935f-f500-43a1-bfc5-fee6b730f2ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>hideDropdownItem(this, 'revenueSourceType', 'NA');</value>
+      <webElementGuid>e9a287af-f348-42fd-a1f0-91b7b7cff93b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>lookup:CM_REV_SRC_TYPE_FLG;</value>
+      <webElementGuid>cac8335e-ea7f-42c4-9650-6711661e9ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/otherCollectiveDetails/revenueSourceType/asCurrent</value>
+      <webElementGuid>e984352d-df06-4cab-9d76-40da63f88947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>47b25547-70e3-4ad1-bb69-99429066c3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_otherCollectiveDetails_revenueSourceType_asCurrent</value>
+      <webElementGuid>bb472118-fd4f-4664-923f-dfef7375634c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_REV_SRC_TYPE_FLG</value>
+      <webElementGuid>f02173c9-8c43-4515-90b3-56be0fa5b336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>lookup:CM_REV_SRC_TYPE_FLG</value>
+      <webElementGuid>a245ccfb-3750-47b9-ba9d-ff54945bbe9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>8dba9d5f-963f-4598-add0-adcba7e9c52d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/otherCollectiveDetails/revenueSourceType/asCurrent</value>
+      <webElementGuid>49ebdf40-0f31-49e1-b281-a947d45f9dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+OutrosReceitas própriasRecursos ConsignadosSubsídiosTransferência do OGE</value>
+      <webElementGuid>1a968120-7c06-48f9-963a-30334061cb28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_otherCollectiveDetails_revenueSourceType_asCurrent&quot;)</value>
+      <webElementGuid>68d99a78-9fb5-4899-a7f7-ca58fcfd9fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>a890fbe0-0d43-4f6e-a75c-35810d88cf67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_otherCollectiveDetails_revenueSourceType_asCurrent']</value>
+      <webElementGuid>5cf46d7e-ad62-4a6f-b1c8-2dea7f614640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='otherCollectiveDetailsHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[27]/td[2]/select</value>
+      <webElementGuid>112fa129-0df4-44fb-b932-e22cb3f84058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fonte de Receitas'])[1]/following::select[1]</value>
+      <webElementGuid>18261225-79ed-4f73-9a9b-94d3da3bea92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secção de Detalhes da Instituição Pública'])[1]/following::select[1]</value>
+      <webElementGuid>5becbc0c-4f86-46ce-a842-2b9e5a56cb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autonomia'])[1]/preceding::select[1]</value>
+      <webElementGuid>9b3ebe75-3297-4f4b-9ab4-2ecc03044cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secção de Detalhes da Associação'])[1]/preceding::select[2]</value>
+      <webElementGuid>f6d1941c-7f29-434b-8889-b6fb9bbfa99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[27]/td[2]/select</value>
+      <webElementGuid>c178ef10-6909-47c2-9c7d-e031e86c1fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_otherCollectiveDetails_revenueSourceType_asCurrent' and (text() = '
+
+
+OutrosReceitas própriasRecursos ConsignadosSubsídiosTransferência do OGE' or . = '
+
+
+OutrosReceitas própriasRecursos ConsignadosSubsídiosTransferência do OGE')]</value>
+      <webElementGuid>9154828c-ed8e-40ac-aa9a-165db4f39dba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

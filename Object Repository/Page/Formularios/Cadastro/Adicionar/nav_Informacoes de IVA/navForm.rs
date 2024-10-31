@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>navForm</name>
+   <tag></tag>
+   <elementGuidId>17b0843f-89a7-449e-be01-53966cdf70b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='ivaInformationsSectionNavRow']/td/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ivaInformationsSectionNavRow > td.cmFormNavigationCell > a.pseudoLink.oraNormal > span.clickable</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@oramdlabel = 'CM_VAT_INFORMATION_LBL' and @class = 'clickable' and (text() = 'Informações de IVA' or . = 'Informações de IVA') and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Informacoes de IVA/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6b396144-fdfc-4016-a1eb-9490f47e37e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>CM_VAT_INFORMATION_LBL</value>
+      <webElementGuid>33af0730-9f13-4264-8600-2e3b6fa842cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickable</value>
+      <webElementGuid>38b5efcf-252e-4adc-8786-ee6e766af4c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informações de IVA</value>
+      <webElementGuid>1ca62a53-bf5e-4308-8696-f720d9a0b065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ivaInformationsSectionNavRow&quot;)/td[@class=&quot;cmFormNavigationCell&quot;]/a[@class=&quot;pseudoLink oraNormal&quot;]/span[@class=&quot;clickable&quot;]</value>
+      <webElementGuid>f4e714a7-eead-49b5-83bd-c0ca91c86870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>75807efd-94b5-4a2e-b8ab-88e4a64ffab2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='ivaInformationsSectionNavRow']/td/a/span</value>
+      <webElementGuid>3f5f84dc-d31a-47f2-bc88-78ff14c82ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outras Informações'])[1]/following::span[1]</value>
+      <webElementGuid>c31c7748-c225-4ed0-bf9f-954ebc69556e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outros Detalhes de Contribuinte Colectivo'])[1]/following::span[2]</value>
+      <webElementGuid>a08f5814-1290-4e10-bd98-e3eca26bf970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identificação dos Sócios'])[1]/preceding::span[1]</value>
+      <webElementGuid>94ed62f0-76f1-4eb1-ae48-9a608c68a1dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação de Contacto'])[1]/preceding::span[2]</value>
+      <webElementGuid>2f65bd12-9657-4593-b1bc-3c37042bd5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Informações de IVA']/parent::*</value>
+      <webElementGuid>1c65fc02-9d62-42bc-b17a-013036e168e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[14]/td/a/span</value>
+      <webElementGuid>e2225dd7-182e-4d34-adaf-8d2687641dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Informações de IVA' or . = 'Informações de IVA')]</value>
+      <webElementGuid>7ac93268-65e3-4919-9a1f-00ddcb5cc445</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

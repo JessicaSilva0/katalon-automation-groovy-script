@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>representanteLegalTipoDeResponsabilidade</name>
+   <tag></tag>
+   <elementGuidId>482c8f98-ee58-47d1-9753-09644590f4c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#responsibilityType_asCurrent_0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'asCurrent' and @id = 'responsibilityType_asCurrent_0']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='responsibilityType_asCurrent_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1c56f997-331e-4cae-a67b-69b690dbf6e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>08680922-186d-4355-8558-41e2e3543150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>responsibilityType oraDefault</value>
+      <webElementGuid>0ba7eec6-d196-42c6-af57-d0f9ec806898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>hideDropdownItem(this, 'responsibilityType', 'NA');</value>
+      <webElementGuid>2f961f1b-1103-4842-b08b-79a2b7290288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>setPkChild(this); otherColLegalRepMarkRequired();</value>
+      <webElementGuid>95f4423e-fe59-4642-b510-87573dad31d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>lookup:CM_RESPON_TYPE_FLG;</value>
+      <webElementGuid>fce07175-1eac-4fcf-a67c-87b0a263bb02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>responsibilityType/asCurrent</value>
+      <webElementGuid>f89a1dfc-5cab-4b56-8c29-8c5efeb6d9b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>81893a4c-1bdd-4d65-a6a2-f5efbad824fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>responsibilityType_asCurrent_0</value>
+      <webElementGuid>34a2d86d-9437-4ac6-acae-9f6fbcd67894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_RESPON_TYPE_FLG</value>
+      <webElementGuid>1c84e30a-8215-4602-80d7-c233d40e2768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>string;precision:4</value>
+      <webElementGuid>d7d40080-3b1d-421d-a8bb-70495aef0e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>2bf33d91-bf18-4487-85ef-bc12c601ee7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>responsibilityType/asCurrent</value>
+      <webElementGuid>e2c3efaf-87b2-4af1-9deb-b29953760f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id_bk</name>
+      <type>Main</type>
+      <value>responsibilityType_asCurrent</value>
+      <webElementGuid>69b7c8ac-a794-4244-bd1b-c8d9a07c7afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modelid</name>
+      <type>Main</type>
+      <value>responsibilityType_asCurrent</value>
+      <webElementGuid>227b931d-6b95-4a00-a8a9-1e7f767b993e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+AdidoAdministradorCoordenadorCônsulDirectorDirector GeralDirector-Geral AdjuntoEmbaixadorGovernadorMinistroMinistro ConselheiroPresidenteRepresentante LegalSecretário GeralSecretário de EstadoVice Presidente</value>
+      <webElementGuid>49dee882-d7b6-4e2b-8389-4d4c8eb6a524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responsibilityType_asCurrent_0&quot;)</value>
+      <webElementGuid>cf981a4f-a52d-4054-a106-5d37074f6474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>aa848b9d-d806-4a6f-be9c-87831faef228</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='responsibilityType_asCurrent_0']</value>
+      <webElementGuid>1c8a1175-a19c-4ec2-95dc-d490b4f1f0fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='boGroup_otherCollectiveDetails_legalRepresentativeGroup']/td/table/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr[5]/td[2]/select</value>
+      <webElementGuid>01109253-6c3b-40f7-8025-c36d8d17ca1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Responsabilidade'])[3]/following::select[1]</value>
+      <webElementGuid>77d0d927-6bb9-4ac1-8fa5-a0a4b5cd6a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WEIRONG, JI'])[1]/following::select[1]</value>
+      <webElementGuid>45503dbc-068f-45e0-85bf-cd15c5b153c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Contacto'])[2]/preceding::select[1]</value>
+      <webElementGuid>0f7c7ad9-7643-4eb0-a318-0cb9ba15e82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código do País'])[2]/preceding::select[2]</value>
+      <webElementGuid>8ab38181-48d1-42eb-9966-39239b68a876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/table/tbody/tr[5]/td[2]/select</value>
+      <webElementGuid>0f845271-ff11-4e22-82ce-d12a468958cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'responsibilityType_asCurrent_0' and (text() = '
+
+
+AdidoAdministradorCoordenadorCônsulDirectorDirector GeralDirector-Geral AdjuntoEmbaixadorGovernadorMinistroMinistro ConselheiroPresidenteRepresentante LegalSecretário GeralSecretário de EstadoVice Presidente' or . = '
+
+
+AdidoAdministradorCoordenadorCônsulDirectorDirector GeralDirector-Geral AdjuntoEmbaixadorGovernadorMinistroMinistro ConselheiroPresidenteRepresentante LegalSecretário GeralSecretário de EstadoVice Presidente')]</value>
+      <webElementGuid>03785a31-1ed4-4ed8-92ef-43ce91d38177</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

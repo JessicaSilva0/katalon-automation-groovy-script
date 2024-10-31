@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tipoDeTributacao</name>
+   <tag></tag>
+   <elementGuidId>ba05bbf7-5085-4758-b425-63ba1114f8c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_otherCollectiveDetails_taxationTypeFlg_asCurrent' and @aria-labelledby = 'C1_AS_CURRENT CM_TAXATION_TYPE_FLG' and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Outros Detalhes do Contribuinte Colectivo/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_otherCollectiveDetails_taxationTypeFlg_asCurrent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_otherCollectiveDetails_taxationTypeFlg_asCurrent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>447a1365-eb6f-44f8-b1a8-cd59120e0cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>f9d33882-864a-4b8e-8404-7f7008411166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>lookup:CM_TAXATION_TYPE_FLG;</value>
+      <webElementGuid>9a84b4c7-7faf-48f3-a258-cb2b117f03a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/otherCollectiveDetails/taxationTypeFlg/asCurrent</value>
+      <webElementGuid>b03f12a3-c760-4907-b4a5-bcc47ddc41b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>be4e3170-fe68-4724-a317-7074ccf8a1c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_otherCollectiveDetails_taxationTypeFlg_asCurrent</value>
+      <webElementGuid>4e8c36c1-c8a7-4414-bdb5-864ea63b8159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_TAXATION_TYPE_FLG</value>
+      <webElementGuid>42e90862-ca91-4d81-9ecf-b07ea4bb0338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>lookup:CM_TAXATION_TYPE_FLG</value>
+      <webElementGuid>99a566e3-74f8-4822-b470-ff84e6d37655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>6872a7ea-33a7-4172-9c99-7e3447c5b2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/otherCollectiveDetails/taxationTypeFlg/asCurrent</value>
+      <webElementGuid>7aa7a773-f543-48f2-a17b-94f1338ca76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+OutraReciprocidade/isençãoReciprocidade/pagamento</value>
+      <webElementGuid>32721c9a-ac48-4afd-9d60-7b001a23906d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_otherCollectiveDetails_taxationTypeFlg_asCurrent&quot;)</value>
+      <webElementGuid>01d08166-ea56-4911-a093-84b3715926e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>28050eb2-aa23-4f77-9c4e-ef8d39ca44e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_otherCollectiveDetails_taxationTypeFlg_asCurrent']</value>
+      <webElementGuid>831a952e-54f0-4dc6-9498-e5e6a6ee6486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='taxationIdentificationVal']/td[2]/select</value>
+      <webElementGuid>29e2d473-6d5c-4846-9324-a3cf823d7bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Tributação'])[1]/following::select[1]</value>
+      <webElementGuid>84c7b146-977f-4ce1-a5e1-7267b5b738d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalhes de Organização Internacional'])[1]/following::select[1]</value>
+      <webElementGuid>7b2bb6c9-e88e-4cd2-9d0d-a8d289579a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outras Informações'])[2]/preceding::select[1]</value>
+      <webElementGuid>eeeb491c-9ec9-44ed-aa2e-10d8a7331210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volume de Negócios'])[1]/preceding::select[1]</value>
+      <webElementGuid>cb654fa7-0097-4aeb-a0c0-f5dfa488cf23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[32]/td[2]/select</value>
+      <webElementGuid>b34d09d6-fb82-44ef-9118-adc0ac64d635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_otherCollectiveDetails_taxationTypeFlg_asCurrent' and (text() = '
+
+
+OutraReciprocidade/isençãoReciprocidade/pagamento' or . = '
+
+
+OutraReciprocidade/isençãoReciprocidade/pagamento')]</value>
+      <webElementGuid>d6c08f65-974c-4aad-8314-423c0e84baaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>motivoSuspencaoAtividadeIVA</name>
+   <tag></tag>
+   <elementGuidId>3497196f-fe6d-40b4-b3c7-7e6a7fa97a11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'asCurrent' and @aria-labelledby = 'C1_AS_CURRENT CM_VAT_REGFORM_06' and @id = 'boGroup_ivaInformation_suspensionReason_asCurrent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>906f487f-d0f4-4702-8b2f-53c08ac21416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/ivaInformation/suspensionReason/asCurrent</value>
+      <webElementGuid>7486c81a-9558-4b70-a674-8a664385e858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>363c3389-918a-4d0e-8cfb-dcd3e3eba580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_VAT_REGFORM_06</value>
+      <webElementGuid>94197faa-dad8-4b4e-ac66-86a1c51e5dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_ivaInformation_suspensionReason_asCurrent</value>
+      <webElementGuid>8879e512-a54c-4498-82c0-949e15d94918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/ivaInformation/suspensionReason/asCurrent</value>
+      <webElementGuid>e5cdfda0-ef00-4c45-b629-fa0720b1ab73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>11fb3701-3905-43ae-bdc2-a8c713a99ff1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

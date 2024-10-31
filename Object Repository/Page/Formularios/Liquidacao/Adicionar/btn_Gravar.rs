@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Gravar</name>
+   <tag></tag>
+   <elementGuidId>e0390ba7-bf2a-4cbc-b793-0fb73dda1c9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input.oraButton:nth-child(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Gravar</value>
+      <webElementGuid>67cd027e-06fa-4f22-a28e-4c9cbcada326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input.oraButton:nth-child(2)</value>
+      <webElementGuid>4985533a-508e-4496-bcf2-2ee3338593f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>SAVE_BTN_LBL</value>
+      <webElementGuid>8813110b-0709-470d-b210-b6f57fe1abf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oraButton.oraDefault</value>
+      <webElementGuid>e12120b4-be1b-45fa-b473-48ba89ff5850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>46b53aae-d4a7-45ed-b0af-b2b14b42a586</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

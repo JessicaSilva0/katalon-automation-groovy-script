@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cadastro de Contribuinte</description>
+   <name>CT08 - Trabalhador por Conta Própria - Residente - IRT Grupo C</name>
+   <tag>Residente -</tag>
+   <comment></comment>
+   <testCaseGuid>f55e6f00-daed-41f2-a357-38eb34334362</testCaseGuid>
+</TestCaseEntity>

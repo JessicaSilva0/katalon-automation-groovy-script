@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>removerNifResponsavel</name>
+   <tag></tag>
+   <elementGuidId>03d256bf-196b-415c-88e3-4ef2345881a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;otherCollectiveDetailsHeader&quot;]/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[14]/td[2]/img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;otherCollectiveDetailsHeader&quot;]/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[14]/td[2]/img[2]</value>
+      <webElementGuid>9e271c10-71f9-4cde-91d7-d16e031b7e3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>f2c13527-7491-47a7-addb-ca404f1e0ae6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

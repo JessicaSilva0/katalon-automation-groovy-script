@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>paisIVA</name>
+   <tag></tag>
+   <elementGuidId>63eaa352-d4fc-45bd-a46e-fdfacc24ef79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'asCurrent' and @id = 'boGroup_nonResidentDetails_vatRepCountry_asCurrent' and @aria-labelledby = 'C1_AS_CURRENT CM_COUNTRY' and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Detalhes Para Nao Residentes/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_nonResidentDetails_vatRepCountry_asCurrent']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_nonResidentDetails_vatRepCountry_asCurrent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>976ca2aa-51cd-4c11-b919-bdf2bee9861f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vatRepFields oraDefault</value>
+      <webElementGuid>7e72fcd3-28d0-44ca-b285-b9ab724f5112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>markAllRequiredIfAnyNotEmpty('vatRepFields');</value>
+      <webElementGuid>3ab5411b-897b-424e-bf11-304198e14773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>15ab9958-40f9-4cc1-9113-c5816b8efbfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>table:CI_COUNTRY</value>
+      <webElementGuid>23dd275f-f7a9-44e5-947d-ec422239eea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/nonResidentDetails/vatRepCountry/asCurrent</value>
+      <webElementGuid>38163b4d-10e7-469f-b8ae-2b61dd33eacb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>422dd600-2a39-4a07-a5e5-a5cf45b237e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_nonResidentDetails_vatRepCountry_asCurrent</value>
+      <webElementGuid>ee2f8816-729d-43be-8fb4-c06b197c804e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_COUNTRY</value>
+      <webElementGuid>6b0ceaae-2fd7-4460-af52-2a5adf601fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>string;precision:1</value>
+      <webElementGuid>bf058afe-8fd8-49d4-ba21-6a09c01e3e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>a6a18f2e-65d8-482c-bbbd-f5340141ec3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/nonResidentDetails/vatRepCountry/asCurrent</value>
+      <webElementGuid>0cd3b4d1-43ad-48ca-8607-4310c80098e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+AFEGANISTÃOALBÂNIAALEMANHAANDORRAANGOLAANGUILAANTÁRTICAANTÍGUA E BARBUDAARGENTINAARGÉLIAARMÊNIAARUBAARÁBIA SAUDITAAUSTRÁLIAAZERBAIJÃOBAHAMASBANGLADESHEBARBADOSBARÉMBELIZEBENIMBERMUDASBIELORRÚSSIABOLÍVIABONAIRE, SINT EUSTATIUS E SABABOTSUANABRASILBRUNEIBULGÁRIABURQUINA FASOBURÚNDIBUTÃOBÉLGICABÓSNIA E HERZEGOVINACABO VERDECAMARÕESCAMBOJACANADÁCATARCAZAQUISTÃOCHADECHILECHINACHIPRECOLÔMBIACOMOROSCONGO-BRAZZAVILLECONGO-KINSHASACORÉIA DO NORTECORÉIA DO SULCOSTA DO MARFIMCOSTA RICACROÁCIACUBACURAÇÃODINAMARCADJIBOUTIDOMINICAEGIPTOEL SALVADOREMIRADOS ÁRABES UNIDOSEQUADORERITREAESLOVÁQUIAESLOVÊNIAESPANHAESTADOS UNIDOS DA ÁMERICAESTÔNIAETIÓPIAFAROÉFIJIFILIPINASFINLÂNDIAFRANÇAGABÃOGANAGEORGIA DO SUL E SANDWICH DO SULGEÓRGIAGIBRALTARGRANADAGROELÂNDIAGRÉCIAGUADALUPEGUAMEGUATEMALAGUERNSEYGUIANAGUIANA FRANCESAGUINEA-BISSAUGUINÉGUINÉ EQUATORIALGÂMBIAHAITIHONDURASHONG KONGHUNGRIAILHA BOUVETILHA DE MANILHA DO NATALILHA NORFOLKILHAS CAIMÃOILHAS COOKILHAS DE ALANDAILHAS DOS COCOSILHAS FALKLAND (MALVINAS)ILHAS HEARD E MCDONALDILHAS MARIANAS DO NORTEILHAS MARSHALLILHAS MENORES DOS ESTADOS UNIDOSILHAS SALOMÃOILHAS TURCAS E CAICOSILHAS VIRGENS AMERICANASILHAS VIRGENS BRITÂNICASINDONÉSIAIRAQUEIRLANDAIRÃISLÂNDIAISRAELITÁLIAIÉMENJAMAICAJAPÃOJERSEYJORDÂNIAKUWAITLAOSLESOTOLETÔNIALIBÉRIALISTENSTAINELITUÂNIALUXEMBURGOLÍBANOLÍBIAMACAUMACEDÓNIAMADAGÁSCARMALAVIMALDIVASMALIMALTAMALÁSIAMARROCOSMARTINICAMAURITÂNIAMAURÍCIOMAYOTTEMICRONÉSIAMOLDOVAMONGÓLIAMONSERRATEMONTENEGROMOÇAMBIQUEMYANMARMÉXICOMÔNACONAMIBIANAURUNEPALNICARÁGUANIGERNIGÉRIANIUENORUEGANOVA CALEDÔNIANOVA ZELÂNDIANÃO INFORMADOOMÃPALAUPALESTINE, STATE OFPANAMÁPAPUA NOVA GUINÉPAQUISTÃOPARAGUAIPAÍSES BAIXOSPERUPITCAIRNPOLINÉSIA FRANCESAPOLÔNIAPORTO RICOPORTUGALQUIRGUIZISTÃOQUIRIBATIQUÊNIAREINO UNIDOREPÚBLICA CENTRO-AFRICANAREPÚBLICA CHECAREPÚBLICA DOMINICANAROMÉNIARUANDARÉUNIONRÚSSIASAARA OCIDENTALSAMOASAMOA AMERICANASAN MARINOSANTA HELENASANTA LÚCIASEICHELESSENEGALSERRA LEOASINGAPURASOMÁLIASRI LANCASUAZILÂNDIASUDÃOSUDÃO DO SULSURINAMESUÉCIASUÍÇASVALBARD E JAN MAYENSÁO CRISTÓVÃO E NEVESSÃO BARTOLOMEUSÃO MARTINHO (PARTE FRANCESA)SÃO MARTINHO (PARTE HOLANDESA)SÃO PEDRO E MIQUELONSÃO TOMÉ E PRÍNCIPESÃO VICENTE E GRANADINASSÉRVIASÍRIATAILÂNDIATAIWANTAJIQUISTÃOTANZÂNIATERRITÓRIO BRITÂNICO DO OCEANO ÍNDICOTERRITÓRIOS AUSTRAIS FRANCESESTIMOR-LESTETOGOTOKELAUTONGATRINIDADE E TOBAGOTUNÍSIATURQUEMENISTÃOTURQUIATUVALUUCRÂNIAUGANDAURUGUAIUSBEQUISTÃOVANUATUVATICANOVENEZUELAVIETNÃWALLIS E FUTUNAZIMBÁBUEZÂMBIAÁFRICA DO SULÁUSTRIAÍNDIA</value>
+      <webElementGuid>87ac267e-707e-4900-86ec-0a011dc014e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_nonResidentDetails_vatRepCountry_asCurrent&quot;)</value>
+      <webElementGuid>02737ce6-508e-4ea7-b82e-57cf5cb5308b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>4ece3b9a-3e86-49c8-8b9d-b7b09f4012fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_nonResidentDetails_vatRepCountry_asCurrent']</value>
+      <webElementGuid>a37d9013-53b8-493f-ada9-5d57ec5221a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nonResidentDetailsHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[5]/td[4]/select</value>
+      <webElementGuid>9284f9d2-a37d-4322-8032-32e4dc3b20ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País'])[2]/following::select[1]</value>
+      <webElementGuid>28670bae-e356-404b-9665-81b500eb3ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Representado para efeito de IVA'])[1]/following::select[1]</value>
+      <webElementGuid>970a23d1-eef0-448a-b1b0-9d3e42e1505a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nº de Identificação'])[2]/preceding::select[1]</value>
+      <webElementGuid>9e5a2260-bee8-47b9-b11c-bce55197c751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação Adicional Para Não Residente'])[1]/preceding::select[1]</value>
+      <webElementGuid>53c86723-e17d-4706-a0d1-5c79af0e4fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[4]/select</value>
+      <webElementGuid>22d5401d-2c93-4161-a26d-67fdf00ec01c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_nonResidentDetails_vatRepCountry_asCurrent' and (text() = '
+
+
+AFEGANISTÃOALBÂNIAALEMANHAANDORRAANGOLAANGUILAANTÁRTICAANTÍGUA E BARBUDAARGENTINAARGÉLIAARMÊNIAARUBAARÁBIA SAUDITAAUSTRÁLIAAZERBAIJÃOBAHAMASBANGLADESHEBARBADOSBARÉMBELIZEBENIMBERMUDASBIELORRÚSSIABOLÍVIABONAIRE, SINT EUSTATIUS E SABABOTSUANABRASILBRUNEIBULGÁRIABURQUINA FASOBURÚNDIBUTÃOBÉLGICABÓSNIA E HERZEGOVINACABO VERDECAMARÕESCAMBOJACANADÁCATARCAZAQUISTÃOCHADECHILECHINACHIPRECOLÔMBIACOMOROSCONGO-BRAZZAVILLECONGO-KINSHASACORÉIA DO NORTECORÉIA DO SULCOSTA DO MARFIMCOSTA RICACROÁCIACUBACURAÇÃODINAMARCADJIBOUTIDOMINICAEGIPTOEL SALVADOREMIRADOS ÁRABES UNIDOSEQUADORERITREAESLOVÁQUIAESLOVÊNIAESPANHAESTADOS UNIDOS DA ÁMERICAESTÔNIAETIÓPIAFAROÉFIJIFILIPINASFINLÂNDIAFRANÇAGABÃOGANAGEORGIA DO SUL E SANDWICH DO SULGEÓRGIAGIBRALTARGRANADAGROELÂNDIAGRÉCIAGUADALUPEGUAMEGUATEMALAGUERNSEYGUIANAGUIANA FRANCESAGUINEA-BISSAUGUINÉGUINÉ EQUATORIALGÂMBIAHAITIHONDURASHONG KONGHUNGRIAILHA BOUVETILHA DE MANILHA DO NATALILHA NORFOLKILHAS CAIMÃOILHAS COOKILHAS DE ALANDAILHAS DOS COCOSILHAS FALKLAND (MALVINAS)ILHAS HEARD E MCDONALDILHAS MARIANAS DO NORTEILHAS MARSHALLILHAS MENORES DOS ESTADOS UNIDOSILHAS SALOMÃOILHAS TURCAS E CAICOSILHAS VIRGENS AMERICANASILHAS VIRGENS BRITÂNICASINDONÉSIAIRAQUEIRLANDAIRÃISLÂNDIAISRAELITÁLIAIÉMENJAMAICAJAPÃOJERSEYJORDÂNIAKUWAITLAOSLESOTOLETÔNIALIBÉRIALISTENSTAINELITUÂNIALUXEMBURGOLÍBANOLÍBIAMACAUMACEDÓNIAMADAGÁSCARMALAVIMALDIVASMALIMALTAMALÁSIAMARROCOSMARTINICAMAURITÂNIAMAURÍCIOMAYOTTEMICRONÉSIAMOLDOVAMONGÓLIAMONSERRATEMONTENEGROMOÇAMBIQUEMYANMARMÉXICOMÔNACONAMIBIANAURUNEPALNICARÁGUANIGERNIGÉRIANIUENORUEGANOVA CALEDÔNIANOVA ZELÂNDIANÃO INFORMADOOMÃPALAUPALESTINE, STATE OFPANAMÁPAPUA NOVA GUINÉPAQUISTÃOPARAGUAIPAÍSES BAIXOSPERUPITCAIRNPOLINÉSIA FRANCESAPOLÔNIAPORTO RICOPORTUGALQUIRGUIZISTÃOQUIRIBATIQUÊNIAREINO UNIDOREPÚBLICA CENTRO-AFRICANAREPÚBLICA CHECAREPÚBLICA DOMINICANAROMÉNIARUANDARÉUNIONRÚSSIASAARA OCIDENTALSAMOASAMOA AMERICANASAN MARINOSANTA HELENASANTA LÚCIASEICHELESSENEGALSERRA LEOASINGAPURASOMÁLIASRI LANCASUAZILÂNDIASUDÃOSUDÃO DO SULSURINAMESUÉCIASUÍÇASVALBARD E JAN MAYENSÁO CRISTÓVÃO E NEVESSÃO BARTOLOMEUSÃO MARTINHO (PARTE FRANCESA)SÃO MARTINHO (PARTE HOLANDESA)SÃO PEDRO E MIQUELONSÃO TOMÉ E PRÍNCIPESÃO VICENTE E GRANADINASSÉRVIASÍRIATAILÂNDIATAIWANTAJIQUISTÃOTANZÂNIATERRITÓRIO BRITÂNICO DO OCEANO ÍNDICOTERRITÓRIOS AUSTRAIS FRANCESESTIMOR-LESTETOGOTOKELAUTONGATRINIDADE E TOBAGOTUNÍSIATURQUEMENISTÃOTURQUIATUVALUUCRÂNIAUGANDAURUGUAIUSBEQUISTÃOVANUATUVATICANOVENEZUELAVIETNÃWALLIS E FUTUNAZIMBÁBUEZÂMBIAÁFRICA DO SULÁUSTRIAÍNDIA' or . = '
+
+
+AFEGANISTÃOALBÂNIAALEMANHAANDORRAANGOLAANGUILAANTÁRTICAANTÍGUA E BARBUDAARGENTINAARGÉLIAARMÊNIAARUBAARÁBIA SAUDITAAUSTRÁLIAAZERBAIJÃOBAHAMASBANGLADESHEBARBADOSBARÉMBELIZEBENIMBERMUDASBIELORRÚSSIABOLÍVIABONAIRE, SINT EUSTATIUS E SABABOTSUANABRASILBRUNEIBULGÁRIABURQUINA FASOBURÚNDIBUTÃOBÉLGICABÓSNIA E HERZEGOVINACABO VERDECAMARÕESCAMBOJACANADÁCATARCAZAQUISTÃOCHADECHILECHINACHIPRECOLÔMBIACOMOROSCONGO-BRAZZAVILLECONGO-KINSHASACORÉIA DO NORTECORÉIA DO SULCOSTA DO MARFIMCOSTA RICACROÁCIACUBACURAÇÃODINAMARCADJIBOUTIDOMINICAEGIPTOEL SALVADOREMIRADOS ÁRABES UNIDOSEQUADORERITREAESLOVÁQUIAESLOVÊNIAESPANHAESTADOS UNIDOS DA ÁMERICAESTÔNIAETIÓPIAFAROÉFIJIFILIPINASFINLÂNDIAFRANÇAGABÃOGANAGEORGIA DO SUL E SANDWICH DO SULGEÓRGIAGIBRALTARGRANADAGROELÂNDIAGRÉCIAGUADALUPEGUAMEGUATEMALAGUERNSEYGUIANAGUIANA FRANCESAGUINEA-BISSAUGUINÉGUINÉ EQUATORIALGÂMBIAHAITIHONDURASHONG KONGHUNGRIAILHA BOUVETILHA DE MANILHA DO NATALILHA NORFOLKILHAS CAIMÃOILHAS COOKILHAS DE ALANDAILHAS DOS COCOSILHAS FALKLAND (MALVINAS)ILHAS HEARD E MCDONALDILHAS MARIANAS DO NORTEILHAS MARSHALLILHAS MENORES DOS ESTADOS UNIDOSILHAS SALOMÃOILHAS TURCAS E CAICOSILHAS VIRGENS AMERICANASILHAS VIRGENS BRITÂNICASINDONÉSIAIRAQUEIRLANDAIRÃISLÂNDIAISRAELITÁLIAIÉMENJAMAICAJAPÃOJERSEYJORDÂNIAKUWAITLAOSLESOTOLETÔNIALIBÉRIALISTENSTAINELITUÂNIALUXEMBURGOLÍBANOLÍBIAMACAUMACEDÓNIAMADAGÁSCARMALAVIMALDIVASMALIMALTAMALÁSIAMARROCOSMARTINICAMAURITÂNIAMAURÍCIOMAYOTTEMICRONÉSIAMOLDOVAMONGÓLIAMONSERRATEMONTENEGROMOÇAMBIQUEMYANMARMÉXICOMÔNACONAMIBIANAURUNEPALNICARÁGUANIGERNIGÉRIANIUENORUEGANOVA CALEDÔNIANOVA ZELÂNDIANÃO INFORMADOOMÃPALAUPALESTINE, STATE OFPANAMÁPAPUA NOVA GUINÉPAQUISTÃOPARAGUAIPAÍSES BAIXOSPERUPITCAIRNPOLINÉSIA FRANCESAPOLÔNIAPORTO RICOPORTUGALQUIRGUIZISTÃOQUIRIBATIQUÊNIAREINO UNIDOREPÚBLICA CENTRO-AFRICANAREPÚBLICA CHECAREPÚBLICA DOMINICANAROMÉNIARUANDARÉUNIONRÚSSIASAARA OCIDENTALSAMOASAMOA AMERICANASAN MARINOSANTA HELENASANTA LÚCIASEICHELESSENEGALSERRA LEOASINGAPURASOMÁLIASRI LANCASUAZILÂNDIASUDÃOSUDÃO DO SULSURINAMESUÉCIASUÍÇASVALBARD E JAN MAYENSÁO CRISTÓVÃO E NEVESSÃO BARTOLOMEUSÃO MARTINHO (PARTE FRANCESA)SÃO MARTINHO (PARTE HOLANDESA)SÃO PEDRO E MIQUELONSÃO TOMÉ E PRÍNCIPESÃO VICENTE E GRANADINASSÉRVIASÍRIATAILÂNDIATAIWANTAJIQUISTÃOTANZÂNIATERRITÓRIO BRITÂNICO DO OCEANO ÍNDICOTERRITÓRIOS AUSTRAIS FRANCESESTIMOR-LESTETOGOTOKELAUTONGATRINIDADE E TOBAGOTUNÍSIATURQUEMENISTÃOTURQUIATUVALUUCRÂNIAUGANDAURUGUAIUSBEQUISTÃOVANUATUVATICANOVENEZUELAVIETNÃWALLIS E FUTUNAZIMBÁBUEZÂMBIAÁFRICA DO SULÁUSTRIAÍNDIA')]</value>
+      <webElementGuid>8c4b7acb-0d31-408e-8ca6-84cc810744d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

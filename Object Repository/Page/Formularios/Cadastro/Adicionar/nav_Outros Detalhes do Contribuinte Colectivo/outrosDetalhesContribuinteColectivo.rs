@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>outrosDetalhesContribuinteColectivo</name>
+   <tag></tag>
+   <elementGuidId>82f501bd-0a67-4ac7-9026-3d58510e654c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@oramdlabel = 'CM_OTHER_COLL_DETAILS_LBL' and @class = 'clickable' and (text() = 'Outros Detalhes de Contribuinte Colectivo' or . = 'Outros Detalhes de Contribuinte Colectivo')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='otherCollectiveDetailsNavRow']/td/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#otherCollectiveDetailsNavRow > td.cmFormNavigationCell > a.pseudoLink.oraNormal > span.clickable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ccb88d88-acca-428d-9331-60a201fe6ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>CM_OTHER_COLL_DETAILS_LBL</value>
+      <webElementGuid>495417a3-6c51-4f88-9e64-cc00177d588f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickable</value>
+      <webElementGuid>0c8a61e8-3baa-48e1-a189-ea0670b9fc34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outros Detalhes de Contribuinte Colectivo</value>
+      <webElementGuid>8dda7cfb-906c-430a-b1d5-31f3c2ae150b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;otherCollectiveDetailsNavRow&quot;)/td[@class=&quot;cmFormNavigationCell&quot;]/a[@class=&quot;pseudoLink oraNormal&quot;]/span[@class=&quot;clickable&quot;]</value>
+      <webElementGuid>de004de3-c140-491b-a0b9-d08b78865384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>df45fe9d-d1b8-4c07-a548-9dd347b1bb14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='otherCollectiveDetailsNavRow']/td/a/span</value>
+      <webElementGuid>f4c4af9f-f1ba-43e2-a876-fcacf70d7fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalhes de Identificação de Contribuinte Colectivo'])[1]/following::span[1]</value>
+      <webElementGuid>4347a942-0adc-4dcf-9124-7412654065be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalhes do Contribuinte Institucional'])[1]/following::span[2]</value>
+      <webElementGuid>562d9831-d962-4d02-8a48-914627c7fbc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outras Informações'])[1]/preceding::span[1]</value>
+      <webElementGuid>4e29fcdb-777e-411b-8067-01bf4fc71684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informações de IVA'])[1]/preceding::span[2]</value>
+      <webElementGuid>960ef3e3-7871-4a76-a0d8-d0b5398b5572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Outros Detalhes de Contribuinte Colectivo']/parent::*</value>
+      <webElementGuid>de36b15c-a825-4e5d-bb41-293e9bff676b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td/a/span</value>
+      <webElementGuid>bf432e47-d36a-4de7-98e2-f32ea82cf67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Outros Detalhes de Contribuinte Colectivo' or . = 'Outros Detalhes de Contribuinte Colectivo')]</value>
+      <webElementGuid>a0e08695-0d9b-4f46-81c2-8c4446c0bbb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

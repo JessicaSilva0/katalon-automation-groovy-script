@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-Pesquisar</name>
+   <tag></tag>
+   <elementGuidId>a4f5adfe-f02e-4c09-8790-31819dde4ecb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'anTLZ1Refresh' and @type = 'button' and @value = 'Pesquisar']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>anTLZ1Refresh</value>
+      <webElementGuid>d2d84dd0-a2aa-4a9e-bc64-a37bae1e76ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>07a25faa-ce67-420a-a5bd-29930c2ae337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Pesquisar</value>
+      <webElementGuid>9d967865-99ca-4d96-bb67-ab2fda3db1b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_tabPage</value>
+      <webElementGuid>270b324d-3a08-4316-8d2a-0f201f352bec</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

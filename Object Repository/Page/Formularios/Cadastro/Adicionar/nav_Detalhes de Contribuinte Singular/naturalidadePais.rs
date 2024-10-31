@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>naturalidadePais</name>
+   <tag></tag>
+   <elementGuidId>0fd7ca00-b59d-4939-aa8f-7d4a697770d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_singularTaxpayerDetails_country_asCurrent' and @aria-labelledby = 'C1_AS_CURRENT CM_COUNTRY' and @ref_element = 'Object Repository/Page/Principal/frame_uiMap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_singularTaxpayerDetails_country_asCurrent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_singularTaxpayerDetails_country_asCurrent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2e92c5c5-9c99-4a16-841d-2532c6a04c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>de42d4ae-55a7-40f1-ae07-613616b01e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>country oraDefault</value>
+      <webElementGuid>2a4ec14c-7934-4f0e-969f-d2662ecb1c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>hideDropdownItem(this, 'country', 'XX');</value>
+      <webElementGuid>98c9992b-f190-496a-bf84-2b44161ac6a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>table:CI_COUNTRY</value>
+      <webElementGuid>ef59e944-3e0a-4b40-931b-b3b074d9a155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/singularTaxpayerDetails/country/asCurrent</value>
+      <webElementGuid>deb975d6-c32c-4f62-a14f-3472630135cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>dffc288c-3886-4c9a-a220-0945bb5be90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_singularTaxpayerDetails_country_asCurrent</value>
+      <webElementGuid>fe5f683e-7fc7-46ba-9a00-f6a26985e375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_COUNTRY</value>
+      <webElementGuid>84e8e465-139e-4fac-9ac6-26935148ace8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>string;precision:3</value>
+      <webElementGuid>aab6edc8-564c-4f6b-9be2-612e39616cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>ef6ac1e1-e3af-4300-bc6e-3f2eeb8a790a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/singularTaxpayerDetails/country/asCurrent</value>
+      <webElementGuid>0a15a2ae-54d6-40b4-841b-422a3b68686d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+AFEGANISTÃOALBÂNIAALEMANHAANDORRAANGOLAANGUILAANTÁRTICAANTÍGUA E BARBUDAARGENTINAARGÉLIAARMÊNIAARUBAARÁBIA SAUDITAAUSTRÁLIAAZERBAIJÃOBAHAMASBANGLADESHEBARBADOSBARÉMBELIZEBENIMBERMUDASBIELORRÚSSIABOLÍVIABONAIRE, SINT EUSTATIUS E SABABOTSUANABRASILBRUNEIBULGÁRIABURQUINA FASOBURÚNDIBUTÃOBÉLGICABÓSNIA E HERZEGOVINACABO VERDECAMARÕESCAMBOJACANADÁCATARCAZAQUISTÃOCHADECHILECHINACHIPRECOLÔMBIACOMOROSCONGO-BRAZZAVILLECONGO-KINSHASACORÉIA DO NORTECORÉIA DO SULCOSTA DO MARFIMCOSTA RICACROÁCIACUBACURAÇÃODINAMARCADJIBOUTIDOMINICAEGIPTOEL SALVADOREMIRADOS ÁRABES UNIDOSEQUADORERITREAESLOVÁQUIAESLOVÊNIAESPANHAESTADOS UNIDOS DA ÁMERICAESTÔNIAETIÓPIAFAROÉFIJIFILIPINASFINLÂNDIAFRANÇAGABÃOGANAGEORGIA DO SUL E SANDWICH DO SULGEÓRGIAGIBRALTARGRANADAGROELÂNDIAGRÉCIAGUADALUPEGUAMEGUATEMALAGUERNSEYGUIANAGUIANA FRANCESAGUINEA-BISSAUGUINÉGUINÉ EQUATORIALGÂMBIAHAITIHONDURASHONG KONGHUNGRIAILHA BOUVETILHA DE MANILHA DO NATALILHA NORFOLKILHAS CAIMÃOILHAS COOKILHAS DE ALANDAILHAS DOS COCOSILHAS FALKLAND (MALVINAS)ILHAS HEARD E MCDONALDILHAS MARIANAS DO NORTEILHAS MARSHALLILHAS MENORES DOS ESTADOS UNIDOSILHAS SALOMÃOILHAS TURCAS E CAICOSILHAS VIRGENS AMERICANASILHAS VIRGENS BRITÂNICASINDONÉSIAIRAQUEIRLANDAIRÃISLÂNDIAISRAELITÁLIAIÉMENJAMAICAJAPÃOJERSEYJORDÂNIAKUWAITLAOSLESOTOLETÔNIALIBÉRIALISTENSTAINELITUÂNIALUXEMBURGOLÍBANOLÍBIAMACAUMACEDÓNIAMADAGÁSCARMALAVIMALDIVASMALIMALTAMALÁSIAMARROCOSMARTINICAMAURITÂNIAMAURÍCIOMAYOTTEMICRONÉSIAMOLDOVAMONGÓLIAMONSERRATEMONTENEGROMOÇAMBIQUEMYANMARMÉXICOMÔNACONAMIBIANAURUNEPALNICARÁGUANIGERNIGÉRIANIUENORUEGANOVA CALEDÔNIANOVA ZELÂNDIAOMÃPALAUPALESTINE, STATE OFPANAMÁPAPUA NOVA GUINÉPAQUISTÃOPARAGUAIPAÍSES BAIXOSPERUPITCAIRNPOLINÉSIA FRANCESAPOLÔNIAPORTO RICOPORTUGALQUIRGUIZISTÃOQUIRIBATIQUÊNIAREINO UNIDOREPÚBLICA CENTRO-AFRICANAREPÚBLICA CHECAREPÚBLICA DOMINICANAROMÉNIARUANDARÉUNIONRÚSSIASAARA OCIDENTALSAMOASAMOA AMERICANASAN MARINOSANTA HELENASANTA LÚCIASEICHELESSENEGALSERRA LEOASINGAPURASOMÁLIASRI LANCASUAZILÂNDIASUDÃOSUDÃO DO SULSURINAMESUÉCIASUÍÇASVALBARD E JAN MAYENSÁO CRISTÓVÃO E NEVESSÃO BARTOLOMEUSÃO MARTINHO (PARTE FRANCESA)SÃO MARTINHO (PARTE HOLANDESA)SÃO PEDRO E MIQUELONSÃO TOMÉ E PRÍNCIPESÃO VICENTE E GRANADINASSÉRVIASÍRIATAILÂNDIATAIWANTAJIQUISTÃOTANZÂNIATERRITÓRIO BRITÂNICO DO OCEANO ÍNDICOTERRITÓRIOS AUSTRAIS FRANCESESTIMOR-LESTETOGOTOKELAUTONGATRINIDADE E TOBAGOTUNÍSIATURQUEMENISTÃOTURQUIATUVALUUCRÂNIAUGANDAURUGUAIUSBEQUISTÃOVANUATUVATICANOVENEZUELAVIETNÃWALLIS E FUTUNAZIMBÁBUEZÂMBIAÁFRICA DO SULÁUSTRIAÍNDIA</value>
+      <webElementGuid>3d28337e-9d05-42c8-80d8-884a505d0b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_singularTaxpayerDetails_country_asCurrent&quot;)</value>
+      <webElementGuid>0b8608bd-976d-4d24-a04f-f1b58a5eed87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>5d58f48d-53bd-4826-8955-c418b1ad5d99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_singularTaxpayerDetails_country_asCurrent']</value>
+      <webElementGuid>15a4c3d4-f910-447f-b28c-be13e1e92587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='singularTaxpayerDetailsHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[11]/td[2]/select</value>
+      <webElementGuid>3d7cf0cb-8334-45dd-9505-2432e4c158cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País'])[4]/following::select[1]</value>
+      <webElementGuid>2ce8d5ea-c03d-4f0d-a11c-7018068ef437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Naturalidade'])[1]/following::select[1]</value>
+      <webElementGuid>2cf518c7-b8ea-405c-bd07-00918178a4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Província'])[1]/preceding::select[1]</value>
+      <webElementGuid>f054bc3f-527e-4e04-80a7-ef7ceac5c4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Província'])[2]/preceding::select[1]</value>
+      <webElementGuid>1820ded9-5f80-45d9-9a3d-d416464ded76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[11]/td[2]/select</value>
+      <webElementGuid>7a26e8a3-3ac7-47bb-bf08-5bcc8af8097d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_singularTaxpayerDetails_country_asCurrent' and (text() = '
+
+
+AFEGANISTÃOALBÂNIAALEMANHAANDORRAANGOLAANGUILAANTÁRTICAANTÍGUA E BARBUDAARGENTINAARGÉLIAARMÊNIAARUBAARÁBIA SAUDITAAUSTRÁLIAAZERBAIJÃOBAHAMASBANGLADESHEBARBADOSBARÉMBELIZEBENIMBERMUDASBIELORRÚSSIABOLÍVIABONAIRE, SINT EUSTATIUS E SABABOTSUANABRASILBRUNEIBULGÁRIABURQUINA FASOBURÚNDIBUTÃOBÉLGICABÓSNIA E HERZEGOVINACABO VERDECAMARÕESCAMBOJACANADÁCATARCAZAQUISTÃOCHADECHILECHINACHIPRECOLÔMBIACOMOROSCONGO-BRAZZAVILLECONGO-KINSHASACORÉIA DO NORTECORÉIA DO SULCOSTA DO MARFIMCOSTA RICACROÁCIACUBACURAÇÃODINAMARCADJIBOUTIDOMINICAEGIPTOEL SALVADOREMIRADOS ÁRABES UNIDOSEQUADORERITREAESLOVÁQUIAESLOVÊNIAESPANHAESTADOS UNIDOS DA ÁMERICAESTÔNIAETIÓPIAFAROÉFIJIFILIPINASFINLÂNDIAFRANÇAGABÃOGANAGEORGIA DO SUL E SANDWICH DO SULGEÓRGIAGIBRALTARGRANADAGROELÂNDIAGRÉCIAGUADALUPEGUAMEGUATEMALAGUERNSEYGUIANAGUIANA FRANCESAGUINEA-BISSAUGUINÉGUINÉ EQUATORIALGÂMBIAHAITIHONDURASHONG KONGHUNGRIAILHA BOUVETILHA DE MANILHA DO NATALILHA NORFOLKILHAS CAIMÃOILHAS COOKILHAS DE ALANDAILHAS DOS COCOSILHAS FALKLAND (MALVINAS)ILHAS HEARD E MCDONALDILHAS MARIANAS DO NORTEILHAS MARSHALLILHAS MENORES DOS ESTADOS UNIDOSILHAS SALOMÃOILHAS TURCAS E CAICOSILHAS VIRGENS AMERICANASILHAS VIRGENS BRITÂNICASINDONÉSIAIRAQUEIRLANDAIRÃISLÂNDIAISRAELITÁLIAIÉMENJAMAICAJAPÃOJERSEYJORDÂNIAKUWAITLAOSLESOTOLETÔNIALIBÉRIALISTENSTAINELITUÂNIALUXEMBURGOLÍBANOLÍBIAMACAUMACEDÓNIAMADAGÁSCARMALAVIMALDIVASMALIMALTAMALÁSIAMARROCOSMARTINICAMAURITÂNIAMAURÍCIOMAYOTTEMICRONÉSIAMOLDOVAMONGÓLIAMONSERRATEMONTENEGROMOÇAMBIQUEMYANMARMÉXICOMÔNACONAMIBIANAURUNEPALNICARÁGUANIGERNIGÉRIANIUENORUEGANOVA CALEDÔNIANOVA ZELÂNDIAOMÃPALAUPALESTINE, STATE OFPANAMÁPAPUA NOVA GUINÉPAQUISTÃOPARAGUAIPAÍSES BAIXOSPERUPITCAIRNPOLINÉSIA FRANCESAPOLÔNIAPORTO RICOPORTUGALQUIRGUIZISTÃOQUIRIBATIQUÊNIAREINO UNIDOREPÚBLICA CENTRO-AFRICANAREPÚBLICA CHECAREPÚBLICA DOMINICANAROMÉNIARUANDARÉUNIONRÚSSIASAARA OCIDENTALSAMOASAMOA AMERICANASAN MARINOSANTA HELENASANTA LÚCIASEICHELESSENEGALSERRA LEOASINGAPURASOMÁLIASRI LANCASUAZILÂNDIASUDÃOSUDÃO DO SULSURINAMESUÉCIASUÍÇASVALBARD E JAN MAYENSÁO CRISTÓVÃO E NEVESSÃO BARTOLOMEUSÃO MARTINHO (PARTE FRANCESA)SÃO MARTINHO (PARTE HOLANDESA)SÃO PEDRO E MIQUELONSÃO TOMÉ E PRÍNCIPESÃO VICENTE E GRANADINASSÉRVIASÍRIATAILÂNDIATAIWANTAJIQUISTÃOTANZÂNIATERRITÓRIO BRITÂNICO DO OCEANO ÍNDICOTERRITÓRIOS AUSTRAIS FRANCESESTIMOR-LESTETOGOTOKELAUTONGATRINIDADE E TOBAGOTUNÍSIATURQUEMENISTÃOTURQUIATUVALUUCRÂNIAUGANDAURUGUAIUSBEQUISTÃOVANUATUVATICANOVENEZUELAVIETNÃWALLIS E FUTUNAZIMBÁBUEZÂMBIAÁFRICA DO SULÁUSTRIAÍNDIA' or . = '
+
+
+AFEGANISTÃOALBÂNIAALEMANHAANDORRAANGOLAANGUILAANTÁRTICAANTÍGUA E BARBUDAARGENTINAARGÉLIAARMÊNIAARUBAARÁBIA SAUDITAAUSTRÁLIAAZERBAIJÃOBAHAMASBANGLADESHEBARBADOSBARÉMBELIZEBENIMBERMUDASBIELORRÚSSIABOLÍVIABONAIRE, SINT EUSTATIUS E SABABOTSUANABRASILBRUNEIBULGÁRIABURQUINA FASOBURÚNDIBUTÃOBÉLGICABÓSNIA E HERZEGOVINACABO VERDECAMARÕESCAMBOJACANADÁCATARCAZAQUISTÃOCHADECHILECHINACHIPRECOLÔMBIACOMOROSCONGO-BRAZZAVILLECONGO-KINSHASACORÉIA DO NORTECORÉIA DO SULCOSTA DO MARFIMCOSTA RICACROÁCIACUBACURAÇÃODINAMARCADJIBOUTIDOMINICAEGIPTOEL SALVADOREMIRADOS ÁRABES UNIDOSEQUADORERITREAESLOVÁQUIAESLOVÊNIAESPANHAESTADOS UNIDOS DA ÁMERICAESTÔNIAETIÓPIAFAROÉFIJIFILIPINASFINLÂNDIAFRANÇAGABÃOGANAGEORGIA DO SUL E SANDWICH DO SULGEÓRGIAGIBRALTARGRANADAGROELÂNDIAGRÉCIAGUADALUPEGUAMEGUATEMALAGUERNSEYGUIANAGUIANA FRANCESAGUINEA-BISSAUGUINÉGUINÉ EQUATORIALGÂMBIAHAITIHONDURASHONG KONGHUNGRIAILHA BOUVETILHA DE MANILHA DO NATALILHA NORFOLKILHAS CAIMÃOILHAS COOKILHAS DE ALANDAILHAS DOS COCOSILHAS FALKLAND (MALVINAS)ILHAS HEARD E MCDONALDILHAS MARIANAS DO NORTEILHAS MARSHALLILHAS MENORES DOS ESTADOS UNIDOSILHAS SALOMÃOILHAS TURCAS E CAICOSILHAS VIRGENS AMERICANASILHAS VIRGENS BRITÂNICASINDONÉSIAIRAQUEIRLANDAIRÃISLÂNDIAISRAELITÁLIAIÉMENJAMAICAJAPÃOJERSEYJORDÂNIAKUWAITLAOSLESOTOLETÔNIALIBÉRIALISTENSTAINELITUÂNIALUXEMBURGOLÍBANOLÍBIAMACAUMACEDÓNIAMADAGÁSCARMALAVIMALDIVASMALIMALTAMALÁSIAMARROCOSMARTINICAMAURITÂNIAMAURÍCIOMAYOTTEMICRONÉSIAMOLDOVAMONGÓLIAMONSERRATEMONTENEGROMOÇAMBIQUEMYANMARMÉXICOMÔNACONAMIBIANAURUNEPALNICARÁGUANIGERNIGÉRIANIUENORUEGANOVA CALEDÔNIANOVA ZELÂNDIAOMÃPALAUPALESTINE, STATE OFPANAMÁPAPUA NOVA GUINÉPAQUISTÃOPARAGUAIPAÍSES BAIXOSPERUPITCAIRNPOLINÉSIA FRANCESAPOLÔNIAPORTO RICOPORTUGALQUIRGUIZISTÃOQUIRIBATIQUÊNIAREINO UNIDOREPÚBLICA CENTRO-AFRICANAREPÚBLICA CHECAREPÚBLICA DOMINICANAROMÉNIARUANDARÉUNIONRÚSSIASAARA OCIDENTALSAMOASAMOA AMERICANASAN MARINOSANTA HELENASANTA LÚCIASEICHELESSENEGALSERRA LEOASINGAPURASOMÁLIASRI LANCASUAZILÂNDIASUDÃOSUDÃO DO SULSURINAMESUÉCIASUÍÇASVALBARD E JAN MAYENSÁO CRISTÓVÃO E NEVESSÃO BARTOLOMEUSÃO MARTINHO (PARTE FRANCESA)SÃO MARTINHO (PARTE HOLANDESA)SÃO PEDRO E MIQUELONSÃO TOMÉ E PRÍNCIPESÃO VICENTE E GRANADINASSÉRVIASÍRIATAILÂNDIATAIWANTAJIQUISTÃOTANZÂNIATERRITÓRIO BRITÂNICO DO OCEANO ÍNDICOTERRITÓRIOS AUSTRAIS FRANCESESTIMOR-LESTETOGOTOKELAUTONGATRINIDADE E TOBAGOTUNÍSIATURQUEMENISTÃOTURQUIATUVALUUCRÂNIAUGANDAURUGUAIUSBEQUISTÃOVANUATUVATICANOVENEZUELAVIETNÃWALLIS E FUTUNAZIMBÁBUEZÂMBIAÁFRICA DO SULÁUSTRIAÍNDIA')]</value>
+      <webElementGuid>1e52b802-2111-448f-a405-be19cfe88bc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

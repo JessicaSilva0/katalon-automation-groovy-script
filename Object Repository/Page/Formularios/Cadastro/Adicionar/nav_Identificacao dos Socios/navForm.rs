@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>navForm</name>
+   <tag></tag>
+   <elementGuidId>30ceff40-79f5-4836-9d53-509a764cfa98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#partnersNavRow > td.cmFormNavigationCell > a.pseudoLink.oraNormal > span.clickable</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@oramdlabel = 'CM_PARTNERS_LBL' and (text() = 'Identificação dos Sócios' or . = 'Identificação dos Sócios') and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Identificacao dos Socios/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='partnersNavRow']/td/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>843789b8-b68a-4fb6-9d96-7ff952449fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>CM_PARTNERS_LBL</value>
+      <webElementGuid>62ec9dbd-491a-4b4b-9659-831c1d4f5c8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickable</value>
+      <webElementGuid>032e1808-2b96-405b-a2e2-5f06daf98cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Identificação dos Sócios</value>
+      <webElementGuid>5bc6e762-6a3c-42e1-9288-5ee7ebe4b1e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partnersNavRow&quot;)/td[@class=&quot;cmFormNavigationCell&quot;]/a[@class=&quot;pseudoLink oraNormal&quot;]/span[@class=&quot;clickable&quot;]</value>
+      <webElementGuid>0b6872ae-2b17-426f-9933-20813794c30c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>609a394a-4b93-4e6d-9a7c-13251f1eaadf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='partnersNavRow']/td/a/span</value>
+      <webElementGuid>92849a98-9b03-47d5-8c59-2d67cb713121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informações de IVA'])[1]/following::span[1]</value>
+      <webElementGuid>b0ab8ddd-6401-4f89-8846-b586df0f791d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outras Informações'])[1]/following::span[2]</value>
+      <webElementGuid>c48ad0cb-0888-41eb-871d-752b86705617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação de Contacto'])[1]/preceding::span[1]</value>
+      <webElementGuid>aba3ff67-cbcd-4faf-8be6-b1232ea17418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação de endereço'])[1]/preceding::span[2]</value>
+      <webElementGuid>04994b65-1b44-4ff1-8934-5bfdf64d1e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Identificação dos Sócios']/parent::*</value>
+      <webElementGuid>b893108e-5fca-4954-ad8c-8b8c64474ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[15]/td/a/span</value>
+      <webElementGuid>a47a9f5c-da89-4e30-98f2-09a9d6f7450f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Identificação dos Sócios' or . = 'Identificação dos Sócios')]</value>
+      <webElementGuid>4f1edd1b-cbef-457b-82ac-24ac3cccca79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

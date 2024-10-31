@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ambitoDaPesquisa</name>
+   <tag></tag>
+   <elementGuidId>6af45d00-3ff4-4ffd-a4de-ae16b6640e22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'searchScopeValue' and @class = 'oraDefault']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchScopeValue</value>
+      <webElementGuid>975290e9-a267-4b60-b7c4-182a2bb074c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oraDefault</value>
+      <webElementGuid>4648d5ea-f5cb-4fd9-9520-d16510eb681f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_tabPage</value>
+      <webElementGuid>7d57e84c-7f79-4c0e-91d5-9bbb2a0d4a2c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

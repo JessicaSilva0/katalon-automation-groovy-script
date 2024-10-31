@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>navForm</name>
+   <tag></tag>
+   <elementGuidId>d61ac262-1b38-49c8-a71b-8cd69c99ddcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@oramdlabel = 'CM_CONTACT_INFO_LBL' and @class = 'clickable' and (text() = 'Informação de Contacto' or . = 'Informação de Contacto') and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Informacao de Contacto/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='contactInformationNavRow']/td/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#contactInformationNavRow > td.cmFormNavigationCell > a.pseudoLink.oraNormal > span.clickable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>177aaedf-dc06-4048-9f5b-24e99ac8634f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>CM_CONTACT_INFO_LBL</value>
+      <webElementGuid>1b223493-d090-49f4-aa0a-3a354c97f878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickable</value>
+      <webElementGuid>16138eb7-55d0-4823-95e5-f94d2b685cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informação de Contacto</value>
+      <webElementGuid>b1efba7d-d52b-4d7f-a32e-3183ee3fa4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contactInformationNavRow&quot;)/td[@class=&quot;cmFormNavigationCell&quot;]/a[@class=&quot;pseudoLink oraNormal&quot;]/span[@class=&quot;clickable&quot;]</value>
+      <webElementGuid>9b8ebe09-8d7d-49e2-a373-30d2218bff97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>e374180b-20f3-482c-9d4a-bc4335b7aec2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='contactInformationNavRow']/td/a/span</value>
+      <webElementGuid>17c4c6ee-fc0e-4fbf-848d-737d56e208a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identificação dos Sócios'])[1]/following::span[1]</value>
+      <webElementGuid>23e9e1e7-29e9-44b6-b219-dc0e4c4aa505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informações de IVA'])[1]/following::span[2]</value>
+      <webElementGuid>ee05a53f-5e69-462b-8615-4fa70dc9a0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação de endereço'])[1]/preceding::span[1]</value>
+      <webElementGuid>b4396854-2117-46e0-9e08-55f073804d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação de endereço secundário'])[1]/preceding::span[2]</value>
+      <webElementGuid>96c2182a-acae-4c79-ada5-72f7d8a43fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Informação de Contacto']/parent::*</value>
+      <webElementGuid>f1761e01-7a6e-4aa3-9c18-d3866f595fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td/a/span</value>
+      <webElementGuid>dc255280-aa37-478f-a9a6-590d99d10b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Informação de Contacto' or . = 'Informação de Contacto')]</value>
+      <webElementGuid>2db7b308-bff9-47a4-b508-eab06b8e2c5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

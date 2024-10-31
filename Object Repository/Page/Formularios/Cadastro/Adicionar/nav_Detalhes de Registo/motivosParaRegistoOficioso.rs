@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>motivosParaRegistoOficioso</name>
+   <tag></tag>
+   <elementGuidId>a100c5df-0eb9-454b-b0f0-a3d4ed3a9990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;motivesForOffRegistration_asCurrent_0&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;motivesForOffRegistration_asCurrent_0&quot;]</value>
+      <webElementGuid>373fe8fa-4212-459e-860a-2db0b76bba1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>0872e721-413a-425c-a12b-e23d3ed56da0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

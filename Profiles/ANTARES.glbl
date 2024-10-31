@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>ANTARES</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>PSRM-ANTARES</description>
+      <initValue>'https://10.129.105.235:6501/ouaf/loginPage.jsp'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

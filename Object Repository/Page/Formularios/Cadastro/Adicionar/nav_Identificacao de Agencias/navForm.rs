@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>navForm</name>
+   <tag></tag>
+   <elementGuidId>608a217d-e80b-4a13-bd5f-cdff7da8b032</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='subsidiariesNavRow']/td/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'clickable' and (text() = 'Identificação de Agências' or . = 'Identificação de Agências') and @ref_element = 'Object Repository/Page/Principal/frame_uiMap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#subsidiariesNavRow > td.cmFormNavigationCell > a.pseudoLink.oraNormal > span.clickable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>433e5449-b533-4e48-8a15-15daad6b70f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>CM_SUBSIDIARIES_LBL</value>
+      <webElementGuid>979e1258-cfcf-4635-9ace-84f82d1ba735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickable</value>
+      <webElementGuid>3ec29023-5996-4762-af73-71c48a9fd5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Identificação de Agências</value>
+      <webElementGuid>8ceecaa5-fc1a-47e6-8b23-0893eff4575a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subsidiariesNavRow&quot;)/td[@class=&quot;cmFormNavigationCell&quot;]/a[@class=&quot;pseudoLink oraNormal&quot;]/span[@class=&quot;clickable&quot;]</value>
+      <webElementGuid>1d6a1524-a183-4117-b7e6-1d1fffc84fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>ee3d1ccb-c6cb-4e22-a3bb-58163a318722</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='subsidiariesNavRow']/td/a/span</value>
+      <webElementGuid>6d63e74e-572e-4801-bca8-d2be70283f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dados de Actividade'])[1]/following::span[1]</value>
+      <webElementGuid>2135654f-8a7f-4869-969f-cb28b8b2aa7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informações de endereço alternativas'])[1]/following::span[2]</value>
+      <webElementGuid>e763d52c-fd31-4640-9c35-01d3b56df1a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outras Informações Específicas para o GUE'])[1]/preceding::span[1]</value>
+      <webElementGuid>7b2e213f-8564-43da-bdcf-131ca86c371d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentos Anexados'])[1]/preceding::span[2]</value>
+      <webElementGuid>3666879d-806f-40fc-94b9-effb6f63d7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Identificação de Agências']/parent::*</value>
+      <webElementGuid>cf4b3d83-1fdb-4e6e-b8b1-d2ae3a860174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[21]/td/a/span</value>
+      <webElementGuid>1253b329-ed34-461e-848a-7030e34397bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Identificação de Agências' or . = 'Identificação de Agências')]</value>
+      <webElementGuid>06bb2c13-59f9-41aa-a29e-7a78f4992ea2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

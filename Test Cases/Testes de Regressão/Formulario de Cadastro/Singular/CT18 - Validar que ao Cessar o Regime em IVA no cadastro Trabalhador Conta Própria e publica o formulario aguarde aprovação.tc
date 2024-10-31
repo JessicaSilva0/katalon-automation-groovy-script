@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT18 - Validar que ao Cessar o Regime em IVA no cadastro Trabalhador Conta Própria e publica o formulario aguarde aprovação</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9a9d3c4-4a26-4977-a561-0524cf82dff5</testCaseGuid>
+</TestCaseEntity>

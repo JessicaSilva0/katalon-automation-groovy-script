@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nifSuspensaoActividadeIVA</name>
+   <tag></tag>
+   <elementGuidId>055c5465-e9cb-46d8-99b4-0ebff5ee97e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_ivaInformation_nifCessionario_asCurrent_search' and @title = 'Pesquisar Para NIF' and @alt = 'Pesquisar Para NIF']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_ivaInformation_nifCessionario_asCurrent_search</value>
+      <webElementGuid>8a5db0b0-5764-4772-82d7-3cf8984fbbb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Pesquisar Para NIF</value>
+      <webElementGuid>df8a9a08-ced6-49f7-a671-99ce3c209221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>imageTypeElement uiMargin oraSearchImg</value>
+      <webElementGuid>fed36524-dda3-4368-84eb-0f9fc9259adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Pesquisar Para NIF</value>
+      <webElementGuid>6a1f4ce9-47f9-4d4b-bb7a-590e8005f2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeypress</name>
+      <type>Main</type>
+      <value>oraOpenSearchImgKeyPressEvent(event);</value>
+      <webElementGuid>1866044c-915d-4dab-a6ea-da42ca425eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>oraOpenSearchImgClickEvent(event);</value>
+      <webElementGuid>2a4f0994-56fa-41d3-8bb3-8d529be1a613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/alta/search.png</value>
+      <webElementGuid>9e3661e2-7021-446c-8b28-11c1a420f8be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>b8283a80-3ef1-49da-8245-067e55198f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>20284d14-414e-4c07-af41-e66b88405678</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

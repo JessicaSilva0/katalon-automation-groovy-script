@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>documento</name>
+   <tag></tag>
+   <elementGuidId>7f5a0a58-0dcd-4bba-bca7-20b224c71483</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_documentAssociated_document_asCurrent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_documentAssociated_document_asCurrent</value>
+      <webElementGuid>3f1bc97e-c7c9-426e-b8d0-757b3e93d15c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/documentAssociated/document/asCurrent</value>
+      <webElementGuid>94c13829-31b0-45b8-b284-7f181c1050bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>281b185d-53b8-44e1-b36e-19ef9eaedd32</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

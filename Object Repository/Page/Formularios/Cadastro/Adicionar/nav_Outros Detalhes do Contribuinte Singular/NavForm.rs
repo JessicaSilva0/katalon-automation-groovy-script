@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NavForm</name>
+   <tag></tag>
+   <elementGuidId>7d833a8a-7cf1-40ac-bcd6-4bf1c307ffbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='otherSingularTaxpayerDetailsNavRow']/td/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'otherSingularTaxpayerDetailsNavRow' and @ref_element = 'Object Repository/Page/Principal/frame_uiMap']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outros Detalhes do Contribuinte Singular</value>
+      <webElementGuid>c34acfb2-95d2-4b12-a2f8-1e4dff736a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>otherSingularTaxpayerDetailsNavRow</value>
+      <webElementGuid>c78de1d0-7134-411c-9c4e-c9955dc61522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickable</value>
+      <webElementGuid>6c2c3df5-68ed-4dfa-9072-908ce2478c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>CM_OTHER_SING_TAXP_DETAILS_LBL</value>
+      <webElementGuid>0576da1a-fb42-4751-a34d-a7d85ef675eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>005a099c-d6cd-417a-87c4-a4e9a9e7c6db</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

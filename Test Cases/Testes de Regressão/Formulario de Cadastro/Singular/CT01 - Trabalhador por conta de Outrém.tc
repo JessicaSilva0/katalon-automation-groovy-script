@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT01 - Trabalhador por conta de Outrém</name>
+   <tag>REGRE01</tag>
+   <comment></comment>
+   <testCaseGuid>db11cccc-2074-4195-9496-bb2228e58e38</testCaseGuid>
+</TestCaseEntity>

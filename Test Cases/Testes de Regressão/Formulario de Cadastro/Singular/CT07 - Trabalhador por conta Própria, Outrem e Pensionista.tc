@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT07 - Trabalhador por conta Própria, Outrem e Pensionista</name>
+   <tag>REGRE01</tag>
+   <comment></comment>
+   <testCaseGuid>ba13d0f6-d3b3-4e8e-9d1a-c2193f068a70</testCaseGuid>
+</TestCaseEntity>

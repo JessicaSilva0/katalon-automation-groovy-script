@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>POLARIS</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>PSRM-POLARIS</description>
+      <initValue>'https://10.129.105.62:6501/ouaf/loginPage.jsp'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

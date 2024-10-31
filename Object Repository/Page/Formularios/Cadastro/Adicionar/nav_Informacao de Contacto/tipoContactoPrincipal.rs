@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tipoContactoPrincipal</name>
+   <tag></tag>
+   <elementGuidId>3ae47acb-ca14-4370-9d52-4dd1c19fb9cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'boGroup_contactInformation_primaryContactType_asCurrent' and @aria-labelledby = 'C1_AS_CURRENT CM_CONTACT_TYPE' and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Informacao de Contacto/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_contactInformation_primaryContactType_asCurrent']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_contactInformation_primaryContactType_asCurrent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2cba48ae-4576-42d3-8873-fd9ed603a78c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primaryContactType oraDefault</value>
+      <webElementGuid>f047a02a-1460-467d-b836-fc2dfcff720e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>791ab548-eb40-4aa1-a75a-4bfb83ad6293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>hideDropdownItem(this, 'primaryContactType', 'NA');</value>
+      <webElementGuid>48c30cd7-b72a-4f80-8ab2-d93eb660ebad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>table:CI_PHONE_TYPE</value>
+      <webElementGuid>4e071af5-93dd-4ae2-9e55-5616dd33b51f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/contactInformation/primaryContactType/asCurrent</value>
+      <webElementGuid>48419e05-3e85-40cb-a405-c1908167ee78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>c8414bd1-9394-487e-9db5-840d60f895a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_contactInformation_primaryContactType_asCurrent</value>
+      <webElementGuid>c15fc29a-12c1-488a-b503-25a093333240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_CONTACT_TYPE</value>
+      <webElementGuid>22daa359-fc0a-4a12-8d35-d92c33ab31b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>string;precision:12</value>
+      <webElementGuid>54e2b5ce-df60-4519-ba19-2e6bf8dc7e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>bc1edac9-f2a3-428e-b7be-2c9453bc6212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/contactInformation/primaryContactType/asCurrent</value>
+      <webElementGuid>56aefa9c-cbbe-4c0d-909d-a55f87fc4b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+EstrangeiroFixoTelemóvel</value>
+      <webElementGuid>f7d3b108-ac68-4cd2-b223-33aefd7a6cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_contactInformation_primaryContactType_asCurrent&quot;)</value>
+      <webElementGuid>55a20507-f5c9-46f3-a00a-5e952729ac78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>7b40ff73-005d-45d3-91b8-544d57fec187</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_contactInformation_primaryContactType_asCurrent']</value>
+      <webElementGuid>053f63a4-a0ae-43fa-aad9-e65988711d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contactInformationHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>b8b68885-75f0-4e84-8b3d-fc037af63c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Contacto Principal'])[2]/following::select[1]</value>
+      <webElementGuid>15e57c3b-a18d-4d1a-8939-95e315bbe926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dados de Contacto'])[1]/following::select[1]</value>
+      <webElementGuid>87c4b674-97a0-4127-a47a-f627a698a131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código do País'])[4]/preceding::select[1]</value>
+      <webElementGuid>10487196-25b0-4ec5-b803-51878911e150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nº de Contacto'])[1]/preceding::select[1]</value>
+      <webElementGuid>6cecff5b-6268-45ed-bf92-03af8a7efee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>32377290-3980-42ab-8006-8acdc2302925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_contactInformation_primaryContactType_asCurrent' and (text() = '
+
+
+EstrangeiroFixoTelemóvel' or . = '
+
+
+EstrangeiroFixoTelemóvel')]</value>
+      <webElementGuid>7af7bdca-13c3-42be-a203-37e15195c1eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

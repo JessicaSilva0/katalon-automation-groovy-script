@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PREPROD</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>PSRM-PREPROD</description>
+      <initValue>'https://10.129.105.51:6501/ouaf/cis.jsp'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

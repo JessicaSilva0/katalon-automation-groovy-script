@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>contactosResponsavelTipoDeContacto</name>
+   <tag></tag>
+   <elementGuidId>d73ebf88-a8b2-45c1-84ae-1b773461135f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#phoneType_asCurrent_0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'phoneType oraDefault' and @name = 'asCurrent' and @id = 'phoneType_asCurrent_0']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='phoneType_asCurrent_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c4a9a132-384b-46dc-9060-7bc838ecd804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>phoneType oraDefault</value>
+      <webElementGuid>040021bf-f33a-40d2-aa43-20d1d1c8cfc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>c0bf0364-9eaf-4561-9a6c-e16312ab0eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>hideDropdownItem(this, 'phoneType', 'NA');</value>
+      <webElementGuid>8632297a-d323-40ea-8d64-442cd2413161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>setPkChild(this); phoneTypehandler(this);</value>
+      <webElementGuid>c5bee998-a45a-4224-918d-8ddbd6876734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>table:CI_PHONE_TYPE</value>
+      <webElementGuid>6b321ac4-f243-400e-9917-823bf8d3c82a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>phoneType1/asCurrent</value>
+      <webElementGuid>a13df97e-fc91-4907-96d6-8f11da6c20bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>e8091371-5529-43aa-96ee-56551204fa9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phoneType_asCurrent_0</value>
+      <webElementGuid>5cd5c4dc-9773-4081-880f-206869a8aa62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_PHONE_TYPE</value>
+      <webElementGuid>eaf7c245-73ca-4491-9d3f-34cfc08a29db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>string;precision:12</value>
+      <webElementGuid>8bd574ad-7d07-4e36-b1b6-88e2aaf7e155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>8d8c1a51-4dc6-4bbb-8c80-5e6162da8988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>phoneType1/asCurrent</value>
+      <webElementGuid>8ecc4fd9-8c4d-4ca6-bacf-661de78c03df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id_bk</name>
+      <type>Main</type>
+      <value>phoneType_asCurrent</value>
+      <webElementGuid>518d0350-a03d-4354-a8aa-4b444c4774c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modelid</name>
+      <type>Main</type>
+      <value>phoneType_asCurrent</value>
+      <webElementGuid>eba98e64-9756-4e75-8694-22c8f1e1373d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+EstrangeiroFixoTelemóvel</value>
+      <webElementGuid>ef16abb2-66b5-4baf-829f-be789a4e4c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;otherCollectiveDetailsHeader&quot;)/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;layoutSectionTable&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[18]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;layoutSectionTable&quot;]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[@class=&quot;oraNormal&quot;]/td[2]/select[@id=&quot;phoneType_asCurrent_0&quot;]</value>
+      <webElementGuid>13b36979-b2b4-4e4c-83b6-838a8bf21264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>eecdaa32-e57b-44b2-b35e-d6f9a0099a63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='phoneType_asCurrent_0']</value>
+      <webElementGuid>53419d3d-2e53-4502-a4de-9f4acdcdd262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='otherCollectiveDetailsHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[18]/td/table/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr[3]/td[2]/select</value>
+      <webElementGuid>7c26bb7f-049a-458a-b1a3-061fedfcee3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Contacto'])[1]/following::select[1]</value>
+      <webElementGuid>1cd12619-b890-4642-a19f-46e51da8e57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contactos do Responsável'])[1]/following::select[1]</value>
+      <webElementGuid>0cb3fc94-5d31-4078-8673-7c17d3574cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código do País'])[1]/preceding::select[1]</value>
+      <webElementGuid>3940ffe6-3dc8-40e1-8c72-0cf1d6e46dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número'])[1]/preceding::select[1]</value>
+      <webElementGuid>fe75c4ed-976c-400f-b1ed-2f11d86d1dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[18]/td/table/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr[3]/td[2]/select</value>
+      <webElementGuid>236ebb91-1e64-4c66-a32f-13c258add4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'phoneType_asCurrent_0' and (text() = '
+
+
+EstrangeiroFixoTelemóvel' or . = '
+
+
+EstrangeiroFixoTelemóvel')]</value>
+      <webElementGuid>c1c4b0b4-9cd2-4cac-91b6-8f6c3348f259</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

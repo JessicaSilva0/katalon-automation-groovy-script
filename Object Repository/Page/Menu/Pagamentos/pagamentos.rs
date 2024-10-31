@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pagamentos</name>
+   <tag></tag>
+   <elementGuidId>f6fd5cf6-65e1-44a5-b5da-1700dd4867a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Pagamentos' or . = 'Pagamentos')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pagamentos</value>
+      <webElementGuid>20991dd7-dd19-469c-a1ed-3bdd4e89c345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-submenuname</name>
+      <type>Main</type>
+      <value>C1_PAY_PROCESSING</value>
+      <webElementGuid>b92ee787-3e86-4f5a-8f4a-84b2bf8761a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_main</value>
+      <webElementGuid>581b9541-bad0-4783-b26a-ccc0e2ef03d5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

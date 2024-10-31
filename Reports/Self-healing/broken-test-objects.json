@@ -1,0 +1,54 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page/Principal/frame_main",
+      "brokenLocator": "//*[@name \u003d \u0027main\u0027]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//frame[@name\u003d\u0027main\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page/Principal/frame_main_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page/Search for Person Id, Accounts and NIF/selecionar",
+      "brokenLocator": "//*[@role \u003d \u0027button\u0027 and @src \u003d \u0027images/select_ena.png\u0027 and @alt \u003d \u0027Selecionar\u0027 and @title \u003d \u0027\u0027]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//img[@alt\u003d\u0027Selecionar\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page/Search for Person Id, Accounts and NIF/selecionar_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Detalhes de Registo/navForm",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Detalhes para Não Residentes\u0027])[1]/preceding::span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Detalhes para Não Residentes\u0027])[1]/preceding::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Detalhes de Registo/navForm_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Detalhes de Registo/navForm",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Detalhes para Não Residentes\u0027])[1]/preceding::span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//tr[@id\u003d\u0027registrationDetailsNavRow\u0027]/td/a/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Detalhes de Registo/navForm_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Outros Detalhes do Contribuinte Colectivo/segmento",
+      "brokenLocator": "//*[@class \u003d \u0027cmAutonomyType\u0027 and @oraselect \u003d \u0027lookup:CM_SEGMENT_TYPE_FLG;\u0027 and @name \u003d \u0027asCurrent\u0027 and @id \u003d \u0027boGroup_otherCollectiveDetails_segmentType_asCurrent\u0027 and @aria-labelledby \u003d \u0027C1_AS_CURRENT CM_SEGMENT_TYPE_FLG\u0027 and @oratype \u003d \u0027lookup:CM_SEGMENT_TYPE_FLG\u0027 and @ref_element \u003d \u0027Object Repository/Page/Principal/frame_uiMap\u0027]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//select[@id\u003d\u0027boGroup_otherCollectiveDetails_segmentType_asCurrent\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Outros Detalhes do Contribuinte Colectivo/segmento_XPATH.png"
+    }
+  ]
+}

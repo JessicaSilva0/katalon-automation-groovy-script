@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tipoDeResponsabilidade</name>
+   <tag></tag>
+   <elementGuidId>61ba3266-cc7d-4818-8ea0-f82edca94d2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@onmouseover = concat(&quot;hideDropdownItem(this, &quot; , &quot;'&quot; , &quot;otherCollResponsibilityType&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;NA&quot; , &quot;'&quot; , &quot;);&quot;) and @name = 'asCurrent' and @id = 'boGroup_otherCollectiveDetails_otherCollResponsibilityType_asCurrent' and @oratype = 'lookup:CM_RESPON_TYPE_FLG' and @ref_element = 'Object Repository/test/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boGroup_otherCollectiveDetails_otherCollResponsibilityType_asCurrent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boGroup_otherCollectiveDetails_otherCollResponsibilityType_asCurrent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d4f016df-af12-4d98-95aa-a941777be078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>adf8d50b-1d59-4c67-9011-d34195b17e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>otherCollResponsibilityType</value>
+      <webElementGuid>fdacdaac-a6bc-41ea-87a6-eb00e46eb1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>hideDropdownItem(this, 'otherCollResponsibilityType', 'NA');</value>
+      <webElementGuid>9bac0ba3-492a-41cc-b8f2-f1debfe91f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraselect</name>
+      <type>Main</type>
+      <value>lookup:CM_RESPON_TYPE_FLG;</value>
+      <webElementGuid>031fa716-d2b6-422c-a988-7caf4235083e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>orafield</name>
+      <type>Main</type>
+      <value>boGroup/otherCollectiveDetails/otherCollResponsibilityType/asCurrent</value>
+      <webElementGuid>09bdfe50-eca0-4201-91d9-987a7d083694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asCurrent</value>
+      <webElementGuid>3d890b22-4c33-413c-b6d6-3689192d00dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boGroup_otherCollectiveDetails_otherCollResponsibilityType_asCurrent</value>
+      <webElementGuid>e7156577-44f6-47fd-82db-0441f00b1262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C1_AS_CURRENT CM_RESPON_TYPE_FLG</value>
+      <webElementGuid>af6d73a7-7951-431f-ae1b-7422ebe06de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oratype</name>
+      <type>Main</type>
+      <value>lookup:CM_RESPON_TYPE_FLG</value>
+      <webElementGuid>d904ff77-94a1-4d9a-a19e-aa8f1ffebf4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataexplorerdropdownstate</name>
+      <type>Main</type>
+      <value>Collapsed</value>
+      <webElementGuid>1d46df27-4117-4c03-bce0-3c5e605f9b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oraerrorelement</name>
+      <type>Main</type>
+      <value>boGroup/otherCollectiveDetails/otherCollResponsibilityType/asCurrent</value>
+      <webElementGuid>54a60544-3503-46ee-bb68-041dae4f3713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+
+AdidoAdministradorCoordenadorCônsulDirectorDirector GeralDirector-Geral AdjuntoEmbaixadorGerente Ou GestorGovernadorMinistroMinistro ConselheiroPCAPresidenteProcuradorRepresentante LegalSecretário GeralSecretário de EstadoSócio GerenteVice Presidente</value>
+      <webElementGuid>eb18c01a-5322-4f83-8269-e5adc8a91ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boGroup_otherCollectiveDetails_otherCollResponsibilityType_asCurrent&quot;)</value>
+      <webElementGuid>fc206d33-5a3e-45a9-8648-8bf182c045aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>bd9c17c5-5138-4987-8dbc-d569d91b8018</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boGroup_otherCollectiveDetails_otherCollResponsibilityType_asCurrent']</value>
+      <webElementGuid>ff546821-8ce8-4b24-82fc-805a8fa909e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='otherCollectiveDetailsHeader']/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[16]/td[2]/select</value>
+      <webElementGuid>1a479582-4a12-405f-83b6-4db54e8f9a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Responsabilidade'])[2]/following::select[1]</value>
+      <webElementGuid>36afa389-f4a0-4781-8761-a65db88e9661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pessoa'])[8]/following::select[1]</value>
+      <webElementGuid>4207797f-96cb-4dc6-9f32-b86e25b58557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contactos do Responsável'])[1]/preceding::select[1]</value>
+      <webElementGuid>2caebb8d-06fc-4a38-827d-4be2ff2fa52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Contacto'])[1]/preceding::select[1]</value>
+      <webElementGuid>b24e5745-7b0f-4dc1-a972-7159980e6bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td[2]/select</value>
+      <webElementGuid>8a73bd93-814d-401c-be33-c71bc13e7453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'asCurrent' and @id = 'boGroup_otherCollectiveDetails_otherCollResponsibilityType_asCurrent' and (text() = '
+
+
+AdidoAdministradorCoordenadorCônsulDirectorDirector GeralDirector-Geral AdjuntoEmbaixadorGerente Ou GestorGovernadorMinistroMinistro ConselheiroPCAPresidenteProcuradorRepresentante LegalSecretário GeralSecretário de EstadoSócio GerenteVice Presidente' or . = '
+
+
+AdidoAdministradorCoordenadorCônsulDirectorDirector GeralDirector-Geral AdjuntoEmbaixadorGerente Ou GestorGovernadorMinistroMinistro ConselheiroPCAPresidenteProcuradorRepresentante LegalSecretário GeralSecretário de EstadoSócio GerenteVice Presidente')]</value>
+      <webElementGuid>2072fc3d-36b8-4bc3-be7c-e048482b56a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

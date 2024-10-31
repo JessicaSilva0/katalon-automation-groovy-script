@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_VerificarFormulario</name>
+   <tag></tag>
+   <elementGuidId>0e68338d-cf31-4e79-b09d-44676f16692b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Verificar Formulário']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>input.oraButton:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Verificar Formulário</value>
+      <webElementGuid>54c3415b-f6ff-4a2f-86a0-00cb09d90de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>707f7340-ef25-4045-bee7-9b7358bb1a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>CHECK_FORM_BTN_LBL</value>
+      <webElementGuid>184e06e9-7d25-4e31-a011-2092fcb8c574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input.oraButton:nth-child(1)</value>
+      <webElementGuid>164f5762-53d6-42b5-8762-12bc14476a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>97a53790-c2cf-469d-8aab-af6c42765dfc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

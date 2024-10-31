@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Como tester quero garantir que a funcionalidade de efectuar pagamentos funciona conforme o esperado</description>
+   <name>CT01 - Criar Pagamento com sucesso</name>
+   <tag>pagamento</tag>
+   <comment></comment>
+   <testCaseGuid>c8ea33a2-3bea-46ff-b2c2-2bd476d72eff</testCaseGuid>
+</TestCaseEntity>

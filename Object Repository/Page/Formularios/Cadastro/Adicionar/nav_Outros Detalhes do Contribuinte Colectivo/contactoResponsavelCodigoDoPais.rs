@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>contactoResponsavelCodigoDoPais</name>
+   <tag></tag>
+   <elementGuidId>1e7487e0-c728-4fc2-931b-1fecf824f057</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;othercol_phoneCode_asCurrent_0&quot;]</value>
+      <webElementGuid>e33d12be-bbee-4ded-bfc3-6f4e589229d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>dfc75869-a8eb-4cf6-a83d-4c0394bf8caf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

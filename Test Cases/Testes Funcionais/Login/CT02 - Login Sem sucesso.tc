@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar mensagem de erro de credenciais inválidas</description>
+   <name>CT02 - Login Sem sucesso</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>d7ecd488-7370-4e3f-8d30-754946bab205</testCaseGuid>
+</TestCaseEntity>

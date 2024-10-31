@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_Form</name>
+   <tag></tag>
+   <elementGuidId>fa636a1e-3a1c-434b-ad51-58d7a5859b0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@oramdlabel = 'CM_SEC_ADDRESS_INFO_LBL' and @class = 'clickable' and (text() = 'Informação de endereço secundário' or . = 'Informação de endereço secundário') and @ref_element = 'Object Repository/Page/Formularios/Cadastro/Adicionar/nav_Informacao de Endereco Secundario/Page_Pesquisa a 360 Graus/iframe_Nmero do Pedido de Servio_uiMap']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='secondaryAddressInformationNavRow']/td/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#secondaryAddressInformationNavRow > td.cmFormNavigationCell > a.pseudoLink.oraNormal > span.clickable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>99a1ae7d-fde7-489b-82c1-f95d960fa453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oramdlabel</name>
+      <type>Main</type>
+      <value>CM_SEC_ADDRESS_INFO_LBL</value>
+      <webElementGuid>3cb05eb3-623e-4225-90dd-b2b0e543a836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickable</value>
+      <webElementGuid>48d796ef-6c3c-4a73-a51f-9ce9f2cb21a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informação de endereço secundário</value>
+      <webElementGuid>45f5b61c-3013-4183-8f47-1f9798b7416b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondaryAddressInformationNavRow&quot;)/td[@class=&quot;cmFormNavigationCell&quot;]/a[@class=&quot;pseudoLink oraNormal&quot;]/span[@class=&quot;clickable&quot;]</value>
+      <webElementGuid>1148975f-0116-4143-9cd8-65ddb5da3634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_uiMap</value>
+      <webElementGuid>99030616-9753-49db-a6c0-ace78e146363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='secondaryAddressInformationNavRow']/td/a/span</value>
+      <webElementGuid>ac29faba-31d8-4995-9cdf-7a7ab0c4b0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação de endereço'])[1]/following::span[1]</value>
+      <webElementGuid>b5f30523-b0b5-4f5c-acbf-d60289fad36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação de Contacto'])[1]/following::span[2]</value>
+      <webElementGuid>ae67daf5-385e-4aa8-9f6d-bc95a6d17baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informações de endereço alternativas'])[1]/preceding::span[1]</value>
+      <webElementGuid>3db72049-22c8-4f18-a1a5-fd9c0fe83328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dados de Actividade'])[1]/preceding::span[2]</value>
+      <webElementGuid>830ea15d-85ec-47ca-b7ac-bc99656af3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Informação de endereço secundário']/parent::*</value>
+      <webElementGuid>18de356d-364b-4a59-af56-82a8d5eb0319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[18]/td/a/span</value>
+      <webElementGuid>98165cd2-aa93-43b3-891b-90a07a2d4ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Informação de endereço secundário' or . = 'Informação de endereço secundário')]</value>
+      <webElementGuid>3446c493-8108-4d25-9fb5-38a39009f3b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

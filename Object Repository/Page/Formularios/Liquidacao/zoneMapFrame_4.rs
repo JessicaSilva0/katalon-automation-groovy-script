@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>zoneMapFrame_4</name>
+   <tag></tag>
+   <elementGuidId>754addc0-f102-4c8f-832c-95853a35166c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'zoneMapFrame_4' and @name = 'zoneMapFrame_4' and @ref_element = 'Object Repository/Page_Principal/frame_tabPage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zoneMapFrame_4</value>
+      <webElementGuid>ccc8ed3b-615c-461d-825e-1fa8a094ef1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>zoneMapFrame_4</value>
+      <webElementGuid>f855bfc9-e69e-4228-b51d-a5fec423442a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page/Principal/frame_tabPage</value>
+      <webElementGuid>7c85f88b-c3c4-4d08-ba3a-5261815f8c32</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

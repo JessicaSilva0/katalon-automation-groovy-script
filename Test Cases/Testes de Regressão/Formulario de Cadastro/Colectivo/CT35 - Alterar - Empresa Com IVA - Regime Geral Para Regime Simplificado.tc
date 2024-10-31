@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT35 - Alterar - Empresa Com IVA - Regime Geral Para Regime Simplificado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd7ab193-2822-49ed-b60e-57de7171fa0e</testCaseGuid>
+</TestCaseEntity>
