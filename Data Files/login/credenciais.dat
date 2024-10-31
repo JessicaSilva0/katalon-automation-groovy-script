@@ -8,8 +8,8 @@
    <dataFileGUID>0986c55b-9c6d-4e56-8e01-9763046451d9</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>ANA+NARCISO test123</data>
-   <data>PUSER10 test123</data>
+   <data>user</data>
+   <data>pass</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>username</name>
