@@ -1,24 +1,19 @@
-# Automação de testes SIGT
+# Katalon Automation Project
 
-
-## Funcionalidades automatizadas
-- Cadastro do contribuinte
-- Validação de campos obrigatórios do cadastro de contribuinte
-- Alteração dos dados do contribuinte
 
 ## Acesso ao projecto
-Você pode [acessar o codigo fonte do projeto](http://10.129.106.146/qa-automation/Katalon-qa-automation-cadastro-de-contribuinte.git) ou [baixá-lo](http://10.129.106.146/qa-automation/Katalon-qa-automation-cadastro-de-contribuinte/repository/master/archive.zip)
+Você pode [acessar o codigo fonte do projeto](https://github.com/JessicaSilva0/katalon-automation-groovy-script.git) 
 
 ## Tecnologias utilizadas
  - Katalon IDEA
  - Orientação a objectos
- - Groove
+ - Groovy Script
  - Java 8
  - JS
- - GIT
- - Navegadores(Chrome, Edge e Mozila) atualizados
+ - Git
+ - Navegadores(Chrome, Edge e Mozilla) atualizados
 
-## Manual de montagem de ambiente(Windows)
+## Manual de montagem de ambiente (Windows)
 **1. Baixar ferramentas**
 	
    - [Katalon Studio](https://backend.katalon.com/download-lastest-version?platform=win_64&type_download=kse_pe)
@@ -34,13 +29,9 @@ Você pode [acessar o codigo fonte do projeto](http://10.129.106.146/qa-automati
 
 ***Pré condições:***
 
-*- Ter instalado o Katalon Studio e GIT*
-
-*- Possuir acesso(user e password) no projecto no GITLAB*
+*- Ter instalado o Katalon Studio e Git*
 
   **(Opção 1)**
-
-
 
     1. Execute o arquivo katalon.exe para abrir a ferramenta
 	2. No ícone de GIT, selecionar a opção "Clone Project"
@@ -54,14 +45,12 @@ Você pode [acessar o codigo fonte do projeto](http://10.129.106.146/qa-automati
 
 	1. No explorador de arquivo do windows, crie uma pasta onde irá armazenar o código
 	2. Dentro da pasta, clique com o botão direito e selecione a opção "GIT Bash Here"
-	3. Digite o comando: git clone http://10.129.106.146/qa-automation/Katalon-qa-automation-cadastro-de-contribuinte.git
+	3. Digite o comando: git clone https://github.com/JessicaSilva0/katalon-automation-groovy-script.git
 	4. Insira as credenciais do GITLAB(User e Password)
 	5. Acione "OK" e aguarde até que seja finalizado o clone
 	6. Finalizado o clone, execute o katalon.exe
 	7. Com o Katalon aberto, no menu de ferramentas, acesse o "File > Open Project"
 	8. Selecione a pasta onde foi feito o clone e pronto!
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 **4. Atualizando os drivers para execução**
 
