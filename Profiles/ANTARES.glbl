@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description>PSRM-ANTARES</description>
-      <initValue>'https://10.129.105.235:6501/ouaf/loginPage.jsp'</initValue>
+      <initValue>''</initValue>
       <name>baseURL</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
