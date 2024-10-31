@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description>PSRM-POLARIS</description>
-      <initValue>'https://10.129.105.62:6501/ouaf/loginPage.jsp'</initValue>
+      <initValue>''</initValue>
       <name>baseURL</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
